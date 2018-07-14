@@ -1299,11 +1299,11 @@
       "repository": "Packix",
       "date": "2018-07-14T18:26:38Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1320,6 +1320,15 @@
           "date": "2018-07-14T18:26:38Z",
           "userName": "JBossie",
           "issueNumber": 26647,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "Not Working on My iPhone , depency error",
+          "date": "2018-07-14T18:41:39Z",
+          "userName": "vedatttt",
+          "issueNumber": 26662,
           "arch32": false
         }
       ]
