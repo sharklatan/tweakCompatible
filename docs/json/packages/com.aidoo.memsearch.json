@@ -643,11 +643,11 @@
       "repository": "BigBoss",
       "date": "2018-07-07T22:07:08Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 41,
+        "calculatedStatus": "Not working",
+        "percentage": 40,
         "good": 10,
         "bad": 0,
-        "total": 24,
+        "total": 25,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -871,6 +871,15 @@
           "date": "2018-07-14T17:24:16Z",
           "userName": "james13k9",
           "issueNumber": 26576,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2018-07-14T17:15:08Z",
+          "userName": "Mb031",
+          "issueNumber": 26571,
           "arch32": false
         }
       ]
