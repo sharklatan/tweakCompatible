@@ -557,9 +557,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -594,6 +594,15 @@
           "date": "2018-07-14T06:52:14Z",
           "userName": "AntmanAvengers",
           "issueNumber": 26113,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-07-14T18:24:18Z",
+          "userName": "AhmaadACM",
+          "issueNumber": 26642,
           "arch32": false
         }
       ]
