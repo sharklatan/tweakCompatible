@@ -1,7 +1,7 @@
 {
   "id": "eu.chloeeee.watheme",
   "name": "WATheme",
-  "latest": "1.0",
+  "latest": "1.2",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/eu.chloeeee.watheme/",
   "shortDescription": "WATheme",
@@ -37,6 +37,37 @@
           "date": "2018-07-14T18:23:42Z",
           "userName": "Saeed2017Haidar",
           "issueNumber": 26640,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "11.3.1",
+      "repository": "Packix",
+      "date": "2018-07-14T19:56:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-07-14T19:56:58Z",
+          "userName": "apkathe",
+          "issueNumber": 26701,
           "arch32": false
         }
       ]
