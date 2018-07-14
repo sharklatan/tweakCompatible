@@ -98,9 +98,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -117,6 +117,15 @@
           "date": "2018-07-13T17:50:25Z",
           "userName": "1984World",
           "issueNumber": 25435,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "Not as nice as FolderEnhancer, but an okay substitute. ",
+          "date": "2018-07-14T21:32:28Z",
+          "userName": "f-steff",
+          "issueNumber": 26754,
           "arch32": false
         }
       ]
