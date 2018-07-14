@@ -869,9 +869,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 91,
-        "good": 32,
+        "good": 33,
         "bad": 0,
-        "total": 35,
+        "total": 36,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1194,6 +1194,15 @@
           "date": "2018-07-14T12:43:47Z",
           "userName": "ManCub61",
           "issueNumber": 26439,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "iPhone X 11.3.1 electra1131 working fine",
+          "date": "2018-07-14T19:02:58Z",
+          "userName": "BrianZL1",
+          "issueNumber": 26674,
           "arch32": false
         }
       ]
