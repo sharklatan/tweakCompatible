@@ -80,9 +80,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -108,6 +108,15 @@
           "date": "2018-07-14T18:09:29Z",
           "userName": "overt1",
           "issueNumber": 26617,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "work ipx",
+          "date": "2018-07-14T18:34:06Z",
+          "userName": "eldorado9449",
+          "issueNumber": 26656,
           "arch32": false
         }
       ]
