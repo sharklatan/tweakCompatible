@@ -508,9 +508,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -545,6 +545,15 @@
           "date": "2018-07-14T09:36:03Z",
           "userName": "crypt3r2",
           "issueNumber": 26255,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Works but when choose 5 icons only there are 6",
+          "date": "2018-07-14T16:59:12Z",
+          "userName": "danniealves",
+          "issueNumber": 26564,
           "arch32": false
         }
       ]
