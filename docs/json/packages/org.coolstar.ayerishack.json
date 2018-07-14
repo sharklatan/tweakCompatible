@@ -16,11 +16,11 @@
       "repository": "CoolStar's Repo",
       "date": "2018-07-08T07:50:49Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -55,6 +55,15 @@
           "date": "2018-07-12T22:17:11Z",
           "userName": "RiPx88",
           "issueNumber": 24649,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Not loading all files",
+          "date": "2018-07-14T15:18:50Z",
+          "userName": "BDubbleya",
+          "issueNumber": 26515,
           "arch32": false
         }
       ]
