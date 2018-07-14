@@ -106,10 +106,10 @@
       "date": "2018-07-13T18:09:59Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 80,
         "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -153,6 +153,15 @@
           "date": "2018-07-14T07:23:56Z",
           "userName": "radikal0120",
           "issueNumber": 26147,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "Reset passcode all the time",
+          "date": "2018-07-14T14:27:55Z",
+          "userName": "Hir3n",
+          "issueNumber": 26497,
           "arch32": false
         }
       ]
