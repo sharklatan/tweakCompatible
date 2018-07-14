@@ -1,7 +1,7 @@
 {
   "id": "com.julioverne.ntspeed",
   "name": "NtSpeed",
-  "latest": "0.2~beta6",
+  "latest": "0.1",
   "repository": "ipad_kid's repo",
   "url": "http://ipadkid.cf/",
   "shortDescription": "See Active Traffic Network Speed",
@@ -199,7 +199,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -216,6 +216,15 @@
           "date": "2018-07-08T05:27:57Z",
           "userName": "edupassini",
           "issueNumber": 15207,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-07-14T15:24:22Z",
+          "userName": "Gladi88",
+          "issueNumber": 26521,
           "arch32": false
         }
       ]
