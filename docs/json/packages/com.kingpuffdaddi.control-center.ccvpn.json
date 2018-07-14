@@ -57,10 +57,10 @@
       "date": "2018-05-07T12:29:54Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 33,
+        "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -86,6 +86,15 @@
           "date": "2018-05-15T21:15:45Z",
           "userName": "theb1g0ne",
           "issueNumber": 11658,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "Does NOT have 3D Touch for choosing which VPN. Activates first one! Thanks!",
+          "date": "2018-07-14T20:09:00Z",
+          "userName": "wowparzival",
+          "issueNumber": 26708,
           "arch32": false
         }
       ]
