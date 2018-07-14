@@ -1,7 +1,7 @@
 {
   "id": "org.hacx.superrecorder",
   "name": "Super Recorder",
-  "latest": "2.39",
+  "latest": "2.38-10",
   "repository": "hAcx Repository",
   "url": "http://hacx.org/repo/",
   "shortDescription": "Call Recorder & Voice Amplifier",
@@ -351,11 +351,11 @@
       "repository": "hAcx Repository",
       "date": "2018-07-13T17:51:30Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -372,6 +372,15 @@
           "date": "2018-07-13T17:51:30Z",
           "userName": "1984World",
           "issueNumber": 25438,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2018-07-14T18:58:19Z",
+          "userName": "hane72",
+          "issueNumber": 26668,
           "arch32": false
         }
       ]
