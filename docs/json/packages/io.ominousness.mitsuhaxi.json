@@ -1617,10 +1617,10 @@
       "date": "2018-07-13T14:47:24Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 85,
-        "good": 12,
+        "percentage": 86,
+        "good": 13,
         "bad": 0,
-        "total": 14,
+        "total": 15,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1754,6 +1754,15 @@
           "date": "2018-07-14T13:50:04Z",
           "userName": "devilmax71",
           "issueNumber": 26462,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2018-07-14T19:06:21Z",
+          "userName": "SanderSRB",
+          "issueNumber": 26686,
           "arch32": false
         }
       ]
