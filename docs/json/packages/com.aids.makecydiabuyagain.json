@@ -771,10 +771,10 @@
       "date": "2018-07-12T19:15:03Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "percentage": 47,
         "good": 9,
         "bad": 0,
-        "total": 18,
+        "total": 19,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -944,6 +944,15 @@
           "date": "2018-07-14T06:55:26Z",
           "userName": "crazyian1000",
           "issueNumber": 26124,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-07-14T15:20:01Z",
+          "userName": "mattperr827",
+          "issueNumber": 26517,
           "arch32": false
         }
       ]
