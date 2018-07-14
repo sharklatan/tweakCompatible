@@ -49,9 +49,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -77,6 +77,15 @@
           "date": "2018-07-08T00:31:02Z",
           "userName": "Super-Raccoon",
           "issueNumber": 14618,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2018-07-14T16:21:39Z",
+          "userName": "D33dotexe",
+          "issueNumber": 26539,
           "arch32": false
         }
       ]
