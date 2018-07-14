@@ -1,7 +1,7 @@
 {
   "id": "jp.r-plus.sleipnizer3",
   "name": "Sleipnizer for Safari (iOS 9 & 10)",
-  "latest": "8.0",
+  "latest": "8.1",
   "repository": "apt.thebigboss.org",
   "url": "http://cydia.saurik.com/package/jp.r-plus.sleipnizer3/",
   "shortDescription": "convenient faster browsing with swipes",
@@ -117,6 +117,37 @@
           "date": "2018-07-09T09:03:24Z",
           "userName": "RonaldRegister",
           "issueNumber": 18243,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "8.1",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2018-07-14T22:03:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "Works well. Also works with Safari Plus",
+          "date": "2018-07-14T22:03:58Z",
+          "userName": "rabidi1",
+          "issueNumber": 26767,
           "arch32": false
         }
       ]
