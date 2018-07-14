@@ -503,40 +503,6 @@
       ]
     },
     {
-      "id": "com.arab-cydia.icone",
-      "name": "Arab-Cydia Icons",
-      "latest": "1.0-7",
-      "repository": "Arab-Cydia™ I سيديـا الـ ع ـرب",
-      "url": "http://cydia.saurik.com/package/com.arab-cydia.icone/",
-      "shortDescription": "لاظهار ايقونات الاقسام",
-      "category": "System ",
-      "author": "Arab-Cydia",
-      "commercial": false,
-      "date": "2018-07-14T00:37:29Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0-7",
-          "iOSVersion": "11.4",
-          "repository": "Arab-Cydia™ I سيديـا الـ ع ـرب",
-          "date": "2018-07-14T00:37:29Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ch.mdaus.artsy",
       "name": "Artsy",
       "latest": "0.0.4-8+debug",
@@ -812,6 +778,39 @@
       ]
     },
     {
+      "id": "com.cpdigitaldarkroom.barmoji",
+      "name": "Barmoji",
+      "latest": "1.0",
+      "repository": "CP Digital Darkroom Beta Repo",
+      "url": "http://beta.cpdigitaldarkroom.com/",
+      "shortDescription": "Quick emoji access for iPhone X",
+      "category": "Tweaks",
+      "author": "CP Digital Darkroom",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.4",
+          "repository": "CP Digital Darkroom Beta Repo",
+          "date": "2018-07-11T15:05:07Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.barmoji",
       "name": "Barmoji",
       "latest": "1.0",
@@ -834,39 +833,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.cpdigitaldarkroom.barmoji",
-      "name": "Barmoji",
-      "latest": "1.0",
-      "repository": "CP Digital Darkroom Beta Repo",
-      "url": "http://beta.cpdigitaldarkroom.com/",
-      "shortDescription": "Quick emoji access for iPhone X",
-      "category": "Tweaks",
-      "author": "CP Digital Darkroom",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.0",
-          "iOSVersion": "11.4",
-          "repository": "CP Digital Darkroom Beta Repo",
-          "date": "2018-07-11T15:05:07Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -4195,6 +4161,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.julioverne.mcast",
+      "name": "mCast",
+      "latest": "0.0~beta3",
+      "repository": "julioverne's Repo",
+      "url": "http://cydia.saurik.com/package/com.julioverne.mcast/",
+      "shortDescription": "Chromecast from Music App... Cast Music from Now Playing View. tested in Chromecast model 2014",
+      "category": "Tweaks",
+      "author": "julioverne",
+      "commercial": false,
+      "date": "2018-04-07T06:50:09Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0~beta3",
+          "iOSVersion": "11.4",
+          "repository": "julioverne's Repo",
+          "date": "2018-07-14T14:42:20Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
