@@ -80,7 +80,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -106,6 +106,15 @@
           "date": "2018-07-09T23:58:02Z",
           "userName": "cryptonyt3",
           "issueNumber": 19822,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Crashes, sadly.",
+          "date": "2018-07-14T19:33:10Z",
+          "userName": "GeicoPR",
+          "issueNumber": 26695,
           "arch32": false
         }
       ]
