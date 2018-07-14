@@ -47,11 +47,11 @@
       "repository": "winneon's repository",
       "date": "2018-07-07T21:28:42Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -95,6 +95,15 @@
           "date": "2018-07-09T20:26:54Z",
           "userName": "laoguru",
           "issueNumber": 19425,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "A lot of options are broken, but charging indication works. Will not show battery percentage or date",
+          "date": "2018-07-14T13:46:14Z",
+          "userName": "iiByte",
+          "issueNumber": 26460,
           "arch32": false
         }
       ]
