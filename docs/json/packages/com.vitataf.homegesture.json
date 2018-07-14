@@ -1300,10 +1300,10 @@
       "date": "2018-07-14T18:26:38Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 4,
+        "percentage": 71,
+        "good": 5,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1365,6 +1365,15 @@
           "date": "2018-07-14T21:10:25Z",
           "userName": "tryaink",
           "issueNumber": 26738,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-07-14T23:31:52Z",
+          "userName": "hayan01",
+          "issueNumber": 26808,
           "arch32": false
         }
       ]
