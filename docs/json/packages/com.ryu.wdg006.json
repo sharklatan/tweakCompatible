@@ -1,7 +1,7 @@
 {
   "id": "com.ryu.wdg006",
   "name": "HS.Ryu_006 Fluid Widget",
-  "latest": "1.0.6",
+  "latest": "1.0.5",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.ryu.wdg006/",
   "shortDescription": "HS Widget for XenHTML/SBHTML",
@@ -227,9 +227,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -264,6 +264,15 @@
           "date": "2018-07-14T00:57:54Z",
           "userName": "pr0xee",
           "issueNumber": 25925,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Awesome tweak works really well but heavy load on battery / CPU quite heavy ",
+          "date": "2018-07-14T14:07:14Z",
+          "userName": "Moddingmad",
+          "issueNumber": 26471,
           "arch32": false
         }
       ]
