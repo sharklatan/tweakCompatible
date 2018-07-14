@@ -150,10 +150,10 @@
       "date": "2018-07-09T00:24:13Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 50,
         "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -188,6 +188,15 @@
           "date": "2018-07-14T13:55:58Z",
           "userName": "Jbrewu",
           "issueNumber": 26466,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-07-14T23:34:49Z",
+          "userName": "osialaa",
+          "issueNumber": 26809,
           "arch32": false
         }
       ]
