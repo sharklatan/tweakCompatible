@@ -1,7 +1,7 @@
 {
   "id": "com.ryu.wdg006",
   "name": "HS.Ryu_006 Fluid Widget",
-  "latest": "1.0.5",
+  "latest": "1.0.6",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.ryu.wdg006/",
   "shortDescription": "HS Widget for XenHTML/SBHTML",
@@ -347,9 +347,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -366,6 +366,15 @@
           "date": "2018-07-14T14:09:41Z",
           "userName": "jnsoso",
           "issueNumber": 26474,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-07-14T15:22:12Z",
+          "userName": "pr0xee",
+          "issueNumber": 26519,
           "arch32": false
         }
       ]
