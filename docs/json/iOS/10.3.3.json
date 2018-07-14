@@ -1895,6 +1895,39 @@
       ]
     },
     {
+      "id": "com.aaronash.barrel",
+      "name": "Barrel",
+      "latest": "1.8.1.1-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.aaronash.barrel/",
+      "shortDescription": "3D and other effects on icon pages!",
+      "category": "Tweaks",
+      "author": "Aaron Ash (Charybdis)",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.8.1.2",
+          "iOSVersion": "10.3.3",
+          "repository": "XModGames",
+          "date": "2018-05-01T03:10:09Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.barrel",
       "name": "Barrel",
       "latest": "1.8.1.1-1",
@@ -1923,39 +1956,6 @@
               "bad": 0,
               "percentage": 100,
               "calculatedStatus": "Working"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.aaronash.barrel",
-      "name": "Barrel",
-      "latest": "1.8.1.1-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.aaronash.barrel/",
-      "shortDescription": "3D and other effects on icon pages!",
-      "category": "Tweaks",
-      "author": "Aaron Ash (Charybdis)",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.8.1.2",
-          "iOSVersion": "10.3.3",
-          "repository": "XModGames",
-          "date": "2018-05-01T03:10:09Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
             }
           }
         }
@@ -3093,40 +3093,6 @@
       ]
     },
     {
-      "id": "com.imkpatil.callblocker",
-      "name": "CallBlocker",
-      "latest": "1.1",
-      "repository": "Kiran Patil's Repo",
-      "url": "http://cydia.saurik.com/package/com.imkpatil.callblocker/",
-      "shortDescription": "Block annoying Callers!",
-      "category": "Tweaks",
-      "author": "Kiran Patil",
-      "commercial": false,
-      "date": "2018-04-22T23:20:40Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1",
-          "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
-          "date": "2018-07-10T04:54:07Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.callblocker",
       "name": "CallBlocker",
       "latest": "1.1",
@@ -3155,6 +3121,40 @@
               "bad": 0,
               "percentage": 0,
               "calculatedStatus": "Not working"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.imkpatil.callblocker",
+      "name": "CallBlocker",
+      "latest": "1.1",
+      "repository": "Kiran Patil's Repo",
+      "url": "http://cydia.saurik.com/package/com.imkpatil.callblocker/",
+      "shortDescription": "Block annoying Callers!",
+      "category": "Tweaks",
+      "author": "Kiran Patil",
+      "commercial": false,
+      "date": "2018-04-22T23:20:40Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "10.3.3",
+          "repository": "BigBoss",
+          "date": "2018-07-10T04:54:07Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
             }
           }
         }
@@ -3447,40 +3447,6 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.cask",
-      "name": "Cask",
-      "latest": "0.2",
-      "repository": "BiteYourApple",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.cask/",
-      "shortDescription": "Animated table scrolling inspired by Google Plus",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "date": "2018-06-08T11:59:00Z",
-      "versions": [
-        {
-          "tweakVersion": "0.2",
-          "iOSVersion": "10.3.3",
-          "repository": "BiteYourApple",
-          "date": "2018-06-08T11:59:00Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 1,
-              "good": 1,
-              "bad": 0,
-              "percentage": 100,
-              "calculatedStatus": "Working"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.kiiimo.cask",
       "name": "Cask",
       "latest": "0.2",
@@ -3542,6 +3508,40 @@
               "bad": 0,
               "percentage": 0,
               "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo.biteyourapple.net.cask",
+      "name": "Cask",
+      "latest": "0.2",
+      "repository": "BiteYourApple",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.cask/",
+      "shortDescription": "Animated table scrolling inspired by Google Plus",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "date": "2018-06-08T11:59:00Z",
+      "versions": [
+        {
+          "tweakVersion": "0.2",
+          "iOSVersion": "10.3.3",
+          "repository": "BiteYourApple",
+          "date": "2018-06-08T11:59:00Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
             }
           }
         }
@@ -6648,22 +6648,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.equalizereverywhere",
+      "id": "com.r333d.equalizereverywhere",
       "name": "EqualizerEverywhere",
       "latest": "1.5.9.2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.equalizereverywhere/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.r333d.equalizereverywhere/",
       "shortDescription": "Equalizer that applies to every app",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "Reed Weichler",
-      "commercial": false,
-      "date": "2018-04-14T02:11:52Z",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "1.5.9.2",
           "iOSVersion": "10.3.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-04-14T02:11:52Z",
+          "repository": "BigBoss",
+          "date": "2018-03-03T20:47:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6682,21 +6681,22 @@
       ]
     },
     {
-      "id": "com.r333d.equalizereverywhere",
+      "id": "com.hackyouriphone.equalizereverywhere",
       "name": "EqualizerEverywhere",
       "latest": "1.5.9.2",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.r333d.equalizereverywhere/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.equalizereverywhere/",
       "shortDescription": "Equalizer that applies to every app",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "Reed Weichler",
-      "commercial": true,
+      "commercial": false,
+      "date": "2018-04-14T02:11:52Z",
       "versions": [
         {
           "tweakVersion": "1.5.9.2",
           "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
-          "date": "2018-03-03T20:47:37Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-04-14T02:11:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7403,10 +7403,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.5.2-4",
+      "latest": "3.5.2-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
+      "shortDescription": "File Manager for iOS. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -7458,12 +7458,12 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 3,
+            "good": 4,
             "bad": 0,
-            "total": 3,
+            "total": 4,
             "arch32": {
-              "total": 1,
-              "good": 1,
+              "total": 2,
+              "good": 2,
               "bad": 0,
               "percentage": 100,
               "calculatedStatus": "Working"
@@ -10638,22 +10638,22 @@
       ]
     },
     {
-      "id": "com.lnx.kittloader",
+      "id": "com.yourepo.lonestarx.kittloader",
       "name": "KITTLoader",
       "latest": "1.0.2-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.lnx.kittloader/",
-      "shortDescription": "A crazy activity indicator view!",
+      "repository": "lonestarx Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.lonestarx.kittloader/",
+      "shortDescription": "A crazy activity indicator view! IPX, LITTLEX, NOTCHLESS COMPATIBLE ! iOS 8-11",
       "category": "Tweaks",
       "author": "LonestarX",
       "commercial": false,
-      "date": "2018-05-14T15:45:17Z",
+      "date": "2018-05-14T08:12:59Z",
       "versions": [
         {
-          "tweakVersion": "1.0.0-1",
+          "tweakVersion": "1.0.2",
           "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
-          "date": "2018-05-16T15:20:53Z",
+          "repository": "lonestarx Source - YouRepo",
+          "date": "2018-05-22T18:28:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10672,22 +10672,22 @@
       ]
     },
     {
-      "id": "com.yourepo.lonestarx.kittloader",
+      "id": "com.lnx.kittloader",
       "name": "KITTLoader",
       "latest": "1.0.2-1",
-      "repository": "lonestarx Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.lonestarx.kittloader/",
-      "shortDescription": "A crazy activity indicator view! IPX, LITTLEX, NOTCHLESS COMPATIBLE ! iOS 8-11",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.lnx.kittloader/",
+      "shortDescription": "A crazy activity indicator view!",
       "category": "Tweaks",
       "author": "LonestarX",
       "commercial": false,
-      "date": "2018-05-14T08:12:59Z",
+      "date": "2018-05-14T15:45:17Z",
       "versions": [
         {
-          "tweakVersion": "1.0.2",
+          "tweakVersion": "1.0.0-1",
           "iOSVersion": "10.3.3",
-          "repository": "lonestarx Source - YouRepo",
-          "date": "2018-05-22T18:28:37Z",
+          "repository": "BigBoss",
+          "date": "2018-05-16T15:20:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10969,6 +10969,40 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.liberty",
+      "name": "Liberty",
+      "latest": "0.2.9",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.liberty/",
+      "shortDescription": "A general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Cydia Substrate can be selectively disabled, but this isn't required for many apps.",
+      "category": "HYI - Tweaks",
+      "author": "Ryley Angus",
+      "commercial": false,
+      "date": "2018-03-02T18:05:59Z",
+      "versions": [
+        {
+          "tweakVersion": "0.1.18",
+          "iOSVersion": "10.3.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-05T20:48:11Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.ryleyangus.liberty",
       "name": "Liberty",
       "latest": "0.2.9",
@@ -11024,40 +11058,6 @@
           "iOSVersion": "10.3.3",
           "repository": "Ryley's Repo",
           "date": "2018-07-07T14:57:45Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.liberty",
-      "name": "Liberty",
-      "latest": "0.2.9",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.liberty/",
-      "shortDescription": "A general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Cydia Substrate can be selectively disabled, but this isn't required for many apps.",
-      "category": "HYI - Tweaks",
-      "author": "Ryley Angus",
-      "commercial": false,
-      "date": "2018-03-02T18:05:59Z",
-      "versions": [
-        {
-          "tweakVersion": "0.1.18",
-          "iOSVersion": "10.3.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-05T20:48:11Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15900,7 +15900,7 @@
     {
       "id": "com.opa334.safariplus",
       "name": "Safari Plus",
-      "latest": "1.5.3",
+      "latest": "1.5.4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.opa334.safariplus/",
       "shortDescription": "Various enhancements to Safari!",
