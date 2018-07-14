@@ -1307,10 +1307,10 @@
       "date": "2018-07-07T02:26:56Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 87,
+        "percentage": 85,
         "good": 49,
         "bad": 0,
-        "total": 56,
+        "total": 57,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1822,6 +1822,15 @@
           "date": "2018-07-14T03:26:28Z",
           "userName": "royorbs3",
           "issueNumber": 25988,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "I don’t know what people are thinking this definitely does not work and it causes repeated springboard crashes. I have six just for today. Activator is broken, broken, broken.",
+          "date": "2018-07-14T16:21:12Z",
+          "userName": "XweAponX",
+          "issueNumber": 26538,
           "arch32": false
         }
       ]
