@@ -1664,10 +1664,10 @@
       "date": "2018-07-11T20:57:23Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 92,
-        "good": 13,
+        "percentage": 93,
+        "good": 14,
         "bad": 0,
-        "total": 14,
+        "total": 15,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1801,6 +1801,15 @@
           "date": "2018-07-14T17:30:52Z",
           "userName": "lolpinkshep",
           "issueNumber": 26584,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-07-14T18:42:45Z",
+          "userName": "TheNoim",
+          "issueNumber": 26664,
           "arch32": false
         }
       ]
