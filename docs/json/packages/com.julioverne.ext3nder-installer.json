@@ -2624,9 +2624,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 36,
+        "good": 37,
         "bad": 0,
-        "total": 36,
+        "total": 37,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2958,6 +2958,15 @@
           "date": "2018-07-14T08:26:01Z",
           "userName": "Adatrem",
           "issueNumber": 26193,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "It’s essential for those who might not have access to a computer. Really saves the day when you need to resign.",
+          "date": "2018-07-14T19:05:30Z",
+          "userName": "BrianZL1",
+          "issueNumber": 26684,
           "arch32": false
         }
       ]
