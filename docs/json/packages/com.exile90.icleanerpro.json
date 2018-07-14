@@ -1919,9 +1919,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 73,
+        "good": 74,
         "bad": 0,
-        "total": 73,
+        "total": 74,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2586,6 +2586,15 @@
           "date": "2018-07-14T10:13:19Z",
           "userName": "ric9989",
           "issueNumber": 26309,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone7,2",
+          "issues": "app crashed whole ios now cydia and varios apps are missing. Accessing via search app :(",
+          "date": "2018-07-14T14:06:54Z",
+          "userName": "iamMseyed",
+          "issueNumber": 26469,
           "arch32": false
         }
       ]
