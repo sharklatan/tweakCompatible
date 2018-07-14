@@ -69,6 +69,40 @@
       ]
     },
     {
+      "id": "com.ianas.acehighsierra",
+      "name": "Ace High Sierra",
+      "latest": "3.0",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.ianas.acehighsierra/",
+      "shortDescription": "High Seirra theme for iOS",
+      "category": "Themes",
+      "author": "iAnas",
+      "commercial": true,
+      "date": "2018-07-07T22:27:13Z",
+      "versions": [
+        {
+          "tweakVersion": "3.0",
+          "iOSVersion": "11.4",
+          "repository": "Packix",
+          "date": "2018-07-14T20:31:35Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.ianas.aceios11",
       "name": "Ace iOS 11",
       "latest": "1.0",
@@ -1758,22 +1792,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.colorbadges",
+      "id": "org.thebigboss.colorbadges",
       "name": "ColorBadges",
       "latest": "1.2.0",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.colorbadges/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.colorbadges/",
       "shortDescription": "Colorize your badges",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "David Goldman",
-      "commercial": false,
-      "date": "2018-03-17T12:50:00Z",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "1.2.0",
           "iOSVersion": "11.4",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T15:26:12Z",
+          "repository": "BigBoss",
+          "date": "2018-07-11T10:12:02Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1792,21 +1825,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.colorbadges",
+      "id": "com.hackyouriphone.colorbadges",
       "name": "ColorBadges",
       "latest": "1.2.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.colorbadges/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.colorbadges/",
       "shortDescription": "Colorize your badges",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "David Goldman",
-      "commercial": true,
+      "commercial": false,
+      "date": "2018-03-17T12:50:00Z",
       "versions": [
         {
           "tweakVersion": "1.2.0",
           "iOSVersion": "11.4",
-          "repository": "BigBoss",
-          "date": "2018-07-11T10:12:02Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T15:26:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -2582,10 +2616,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.5.2-4",
+      "latest": "3.5.2-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
+      "shortDescription": "File Manager for iOS. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
