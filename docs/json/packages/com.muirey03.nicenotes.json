@@ -80,9 +80,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -99,6 +99,15 @@
           "date": "2018-07-14T17:53:40Z",
           "userName": "Marvix1711",
           "issueNumber": 26608,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "Works, but sometimes text will appear black until you force close it a couple times",
+          "date": "2018-07-14T20:00:37Z",
+          "userName": "Shep2427",
+          "issueNumber": 26706,
           "arch32": false
         }
       ]
