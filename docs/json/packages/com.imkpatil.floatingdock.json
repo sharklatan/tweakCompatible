@@ -508,9 +508,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 8,
+        "good": 9,
         "bad": 0,
-        "total": 8,
+        "total": 9,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -590,6 +590,15 @@
           "date": "2018-07-14T20:02:20Z",
           "userName": "Shep2427",
           "issueNumber": 26707,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2018-07-14T21:19:26Z",
+          "userName": "SubnormalNebula",
+          "issueNumber": 26744,
           "arch32": false
         }
       ]
