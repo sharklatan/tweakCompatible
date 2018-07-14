@@ -601,9 +601,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -620,6 +620,15 @@
           "date": "2018-07-08T02:27:03Z",
           "userName": "dpha900",
           "issueNumber": 14816,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-07-14T17:45:03Z",
+          "userName": "henriquebelaz",
+          "issueNumber": 26603,
           "arch32": false
         }
       ]
