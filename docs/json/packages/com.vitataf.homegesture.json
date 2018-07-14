@@ -1299,11 +1299,11 @@
       "repository": "Packix",
       "date": "2018-07-14T18:26:38Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 80,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 4,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1356,6 +1356,15 @@
           "date": "2018-07-14T19:57:36Z",
           "userName": "buitim",
           "issueNumber": 26702,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "Broken when installing",
+          "date": "2018-07-14T21:10:25Z",
+          "userName": "tryaink",
+          "issueNumber": 26738,
           "arch32": false
         }
       ]
