@@ -1,7 +1,7 @@
 {
   "id": "com.evilgoldfish.lockglyph",
   "name": "LockGlyph",
-  "latest": "1.1.14",
+  "latest": "1.1.15",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.evilgoldfish.lockglyph/",
   "shortDescription": "unlock using the ApplePay animation",
@@ -171,6 +171,37 @@
           "date": "2018-07-13T01:02:36Z",
           "userName": "actingbusy",
           "issueNumber": 24786,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.15",
+      "iOSVersion": "11.3.1",
+      "repository": "(null)",
+      "date": "2018-07-14T18:55:01Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "The tweak is enabled bur doesn’t show on the Lock screen.",
+          "date": "2018-07-14T18:55:01Z",
+          "userName": "itssVitaliy",
+          "issueNumber": 26667,
           "arch32": false
         }
       ]
