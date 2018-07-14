@@ -18,9 +18,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -55,6 +55,15 @@
           "date": "2018-07-14T17:41:28Z",
           "userName": "ItayMayo",
           "issueNumber": 26593,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,3",
+          "issues": "Banner notifications leave a shadow in the outline of the original banner making it noticeable. Still nice tho!",
+          "date": "2018-07-14T17:40:34Z",
+          "userName": "danteee32",
+          "issueNumber": 26592,
           "arch32": false
         }
       ]
