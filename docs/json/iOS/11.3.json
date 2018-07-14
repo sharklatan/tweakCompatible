@@ -3721,39 +3721,6 @@
       ]
     },
     {
-      "id": "com.golddavid.colorbanners2",
-      "name": "ColorBanners 2 (iOS 10)",
-      "latest": "1.1.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.golddavid.colorbanners2/",
-      "shortDescription": "Color your notifications",
-      "category": "Tweaks",
-      "author": "David Goldman",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.1.0",
-          "iOSVersion": "11.3",
-          "repository": "BigBoss",
-          "date": "2018-07-07T22:47:32Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.colorbanners2",
       "name": "ColorBanners 2 (iOS 10)",
       "latest": "1.1.1",
@@ -3776,6 +3743,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.golddavid.colorbanners2",
+      "name": "ColorBanners 2 (iOS 10)",
+      "latest": "1.1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.golddavid.colorbanners2/",
+      "shortDescription": "Color your notifications",
+      "category": "Tweaks",
+      "author": "David Goldman",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.1.0",
+          "iOSVersion": "11.3",
+          "repository": "BigBoss",
+          "date": "2018-07-07T22:47:32Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -7319,7 +7319,7 @@
     {
       "id": "com.vitataf.homegesture",
       "name": "Home Gesture",
-      "latest": "1.7.7",
+      "latest": "1.7.8",
       "repository": "MidnightChips",
       "url": "http://cydia.saurik.com/package/com.vitataf.homegesture/",
       "shortDescription": "Enable iPhone X home gesture on other devices.",
@@ -16279,6 +16279,40 @@
             "good": 1,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "eu.chloeeee.watheme",
+      "name": "WATheme",
+      "latest": "1.0",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/eu.chloeeee.watheme/",
+      "shortDescription": "WATheme",
+      "category": "Tweaks",
+      "author": "Chloeeisoaky",
+      "commercial": false,
+      "date": "2018-07-14T18:23:42Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.3",
+          "repository": "Packix",
+          "date": "2018-07-14T18:23:42Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
