@@ -778,39 +778,6 @@
       ]
     },
     {
-      "id": "com.cpdigitaldarkroom.barmoji",
-      "name": "Barmoji",
-      "latest": "1.0",
-      "repository": "CP Digital Darkroom Beta Repo",
-      "url": "http://beta.cpdigitaldarkroom.com/",
-      "shortDescription": "Quick emoji access for iPhone X",
-      "category": "Tweaks",
-      "author": "CP Digital Darkroom",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.0",
-          "iOSVersion": "11.4",
-          "repository": "CP Digital Darkroom Beta Repo",
-          "date": "2018-07-11T15:05:07Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.barmoji",
       "name": "Barmoji",
       "latest": "1.0",
@@ -833,6 +800,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.cpdigitaldarkroom.barmoji",
+      "name": "Barmoji",
+      "latest": "1.0",
+      "repository": "CP Digital Darkroom Beta Repo",
+      "url": "http://beta.cpdigitaldarkroom.com/",
+      "shortDescription": "Quick emoji access for iPhone X",
+      "category": "Tweaks",
+      "author": "CP Digital Darkroom",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.4",
+          "repository": "CP Digital Darkroom Beta Repo",
+          "date": "2018-07-11T15:05:07Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -3207,7 +3207,7 @@
     {
       "id": "com.ryu.wdg006",
       "name": "HS.Ryu_006 Fluid Widget",
-      "latest": "1.0.5",
+      "latest": "1.0.6",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.ryu.wdg006/",
       "shortDescription": "HS Widget for XenHTML/SBHTML",
@@ -3734,7 +3734,7 @@
       "latest": "1.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.imkpatil.letmeknow/",
-      "shortDescription": "This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!",
+      "shortDescription": "play vibration when call connect/disconnect",
       "category": "Tweaks",
       "author": "Kiran Patil",
       "commercial": false,
@@ -5852,6 +5852,40 @@
           "iOSVersion": "11.4",
           "repository": "BigBoss",
           "date": "2018-07-13T23:46:55Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.kael.removethestick",
+      "name": "RemoveTheStick",
+      "latest": "1.0",
+      "repository": "Perry Cucko's Repo",
+      "url": "http://cydia.saurik.com/package/com.kael.removethestick/",
+      "shortDescription": "Remove THE STICK !",
+      "category": "Tweaks",
+      "author": "Yerushalayim",
+      "commercial": false,
+      "date": "2018-07-08T04:47:52Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.4",
+          "repository": "Perry Cucko's Repo",
+          "date": "2018-07-14T16:17:05Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
