@@ -86,10 +86,10 @@
       "date": "2018-07-09T18:08:20Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -115,6 +115,15 @@
           "date": "2018-07-13T11:56:12Z",
           "userName": "Sly-Fi",
           "issueNumber": 25196,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "Install libmoorecon from tateu repo",
+          "date": "2018-07-14T17:25:32Z",
+          "userName": "Sly-Fi",
+          "issueNumber": 26577,
           "arch32": false
         }
       ]
