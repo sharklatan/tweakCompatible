@@ -18,9 +18,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -46,6 +46,15 @@
           "date": "2018-07-13T21:22:46Z",
           "userName": "tweaktest",
           "issueNumber": 25666,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-07-14T23:16:30Z",
+          "userName": "rubbercake",
+          "issueNumber": 26806,
           "arch32": false
         }
       ]
