@@ -555,9 +555,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 92,
-        "good": 12,
+        "good": 13,
         "bad": 0,
-        "total": 13,
+        "total": 14,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -682,6 +682,15 @@
           "date": "2018-07-12T17:41:04Z",
           "userName": "gravity010",
           "issueNumber": 24449,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "Icon labels do not show in dock when enabled in settings ",
+          "date": "2018-07-14T17:23:20Z",
+          "userName": "Sly-Fi",
+          "issueNumber": 26575,
           "arch32": false
         }
       ]
