@@ -51,7 +51,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -68,6 +68,15 @@
           "date": "2018-07-08T11:29:08Z",
           "userName": "genghiz93",
           "issueNumber": 15879,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,4",
+          "issues": "32 bit only.",
+          "date": "2018-07-14T19:50:32Z",
+          "userName": "92555",
+          "issueNumber": 26700,
           "arch32": false
         }
       ]
