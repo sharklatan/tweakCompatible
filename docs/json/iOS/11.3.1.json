@@ -3523,40 +3523,6 @@
       ]
     },
     {
-      "id": "me.a1iraqi.anemone",
-      "name": "Anemone",
-      "latest": "2.1.7-7",
-      "repository": "Azozz ALFiras | عزوز الفراس",
-      "url": "http://cydia.saurik.com/package/me.a1iraqi.anemone/",
-      "shortDescription": "تفعيل الثيمات للايفون وللايباد\r",
-      "category": "Tweaks",
-      "author": "AnemoneTeam",
-      "commercial": false,
-      "date": "2018-07-07T19:46:50Z",
-      "versions": [
-        {
-          "tweakVersion": "2.1.7-7",
-          "iOSVersion": "11.3.1",
-          "repository": "Azozz ALFiras | عزوز الفراس",
-          "date": "2018-07-07T19:46:50Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.anemone",
       "name": "Anemone",
       "latest": "1.1-163",
@@ -3650,6 +3616,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "me.a1iraqi.anemone",
+      "name": "Anemone",
+      "latest": "2.1.7-7",
+      "repository": "Azozz ALFiras | عزوز الفراس",
+      "url": "http://cydia.saurik.com/package/me.a1iraqi.anemone/",
+      "shortDescription": "تفعيل الثيمات للايفون وللايباد\r",
+      "category": "Tweaks",
+      "author": "AnemoneTeam",
+      "commercial": false,
+      "date": "2018-07-07T19:46:50Z",
+      "versions": [
+        {
+          "tweakVersion": "2.1.7-7",
+          "iOSVersion": "11.3.1",
+          "repository": "Azozz ALFiras | عزوز الفراس",
+          "date": "2018-07-07T19:46:50Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -10217,40 +10217,6 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.bioprotectx",
-      "name": "BioProtect X for iOS 11",
-      "latest": "2.3-10",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.bioprotectx/",
-      "shortDescription": "Protect your apps with Touch/Face ID!",
-      "category": "Tweaks",
-      "author": "Elias Limneos",
-      "commercial": false,
-      "date": "2018-07-13T01:29:56Z",
-      "versions": [
-        {
-          "tweakVersion": "2.3-10",
-          "iOSVersion": "11.3.1",
-          "repository": "(null)",
-          "date": "2018-07-13T01:29:56Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.kiiimo.bioprotect",
       "name": "BioProtect X for iOS 11",
       "latest": "2.3-9K",
@@ -10307,6 +10273,40 @@
             "good": 28,
             "bad": 0,
             "total": 28,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.repo.xarold.com.bioprotectx",
+      "name": "BioProtect X for iOS 11",
+      "latest": "2.3-10",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.bioprotectx/",
+      "shortDescription": "Protect your apps with Touch/Face ID!",
+      "category": "Tweaks",
+      "author": "Elias Limneos",
+      "commercial": false,
+      "date": "2018-07-13T01:29:56Z",
+      "versions": [
+        {
+          "tweakVersion": "2.3-10",
+          "iOSVersion": "11.3.1",
+          "repository": "(null)",
+          "date": "2018-07-13T01:29:56Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -17326,6 +17326,40 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.colorbadges",
+      "name": "ColorBadges",
+      "latest": "1.2.0",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.colorbadges/",
+      "shortDescription": "Colorize your badges",
+      "category": "HYI - Tweaks",
+      "author": "David Goldman",
+      "commercial": false,
+      "date": "2018-03-17T12:50:00Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.0",
+          "iOSVersion": "11.3.1",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-07T21:22:16Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.yourepo.mrfredtouhey.colorbadges",
       "name": "ColorBadges",
       "latest": "1.2.0",
@@ -17360,26 +17394,26 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.colorbadges",
-      "name": "ColorBadges",
-      "latest": "1.2.0",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.colorbadges/",
-      "shortDescription": "Colorize your badges",
-      "category": "HYI - Tweaks",
+      "id": "com.golddavid.colorbanners",
+      "name": "ColorBanners",
+      "latest": "1.0.6-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.golddavid.colorbanners/",
+      "shortDescription": "Color your notifications",
+      "category": "Tweaks",
       "author": "David Goldman",
-      "commercial": false,
-      "date": "2018-03-17T12:50:00Z",
+      "commercial": true,
+      "date": "2018-04-15T20:27:45Z",
       "versions": [
         {
-          "tweakVersion": "1.2.0",
+          "tweakVersion": "1.0.6-1",
           "iOSVersion": "11.3.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-07T21:22:16Z",
+          "repository": "BigBoss",
+          "date": "2018-07-07T18:12:53Z",
           "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -17416,40 +17450,6 @@
             "good": 2,
             "bad": 0,
             "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.golddavid.colorbanners",
-      "name": "ColorBanners",
-      "latest": "1.0.6-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.golddavid.colorbanners/",
-      "shortDescription": "Color your notifications",
-      "category": "Tweaks",
-      "author": "David Goldman",
-      "commercial": true,
-      "date": "2018-04-15T20:27:45Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.6-1",
-          "iOSVersion": "11.3.1",
-          "repository": "BigBoss",
-          "date": "2018-07-07T18:12:53Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -20498,40 +20498,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.datameter",
-      "name": "DataMeter",
-      "latest": "1.4-3",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.datameter/",
-      "shortDescription": "DataMeter for iOS 7-10 Notification Center",
-      "category": "HYI - Tweaks",
-      "author": "Minuit",
-      "commercial": false,
-      "date": "2018-03-14T03:06:44Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4-3",
-          "iOSVersion": "11.3.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-07T11:49:58Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.jailbreaktr.datameter",
       "name": "DataMeter",
       "latest": "1.4-3",
@@ -20554,6 +20520,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.datameter",
+      "name": "DataMeter",
+      "latest": "1.4-3",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.datameter/",
+      "shortDescription": "DataMeter for iOS 7-10 Notification Center",
+      "category": "HYI - Tweaks",
+      "author": "Minuit",
+      "commercial": false,
+      "date": "2018-03-14T03:06:44Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4-3",
+          "iOSVersion": "11.3.1",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-07T11:49:58Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -25088,40 +25088,6 @@
       ]
     },
     {
-      "id": "com.auxilium.ezcc",
-      "name": "EzCC",
-      "latest": "1.2.4",
-      "repository": "Auxilium Development Repo",
-      "url": "http://cydia.saurik.com/package/com.auxilium.ezcc/",
-      "shortDescription": "EzCC Module Tweak for iOS 11! Allows you to launch apps and activate system commands from the Control Center",
-      "category": "Tweaks",
-      "author": "Auxilium Team",
-      "commercial": false,
-      "date": "2018-03-27T06:29:15Z",
-      "versions": [
-        {
-          "tweakVersion": "1.2.4",
-          "iOSVersion": "11.3.1",
-          "repository": "Stable Auxilium Repo",
-          "date": "2018-07-07T22:21:43Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 91,
-            "good": 11,
-            "bad": 0,
-            "total": 12,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.ezcc",
       "name": "EzCC",
       "latest": "1.2.4",
@@ -25144,6 +25110,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.auxilium.ezcc",
+      "name": "EzCC",
+      "latest": "1.2.4",
+      "repository": "Auxilium Development Repo",
+      "url": "http://cydia.saurik.com/package/com.auxilium.ezcc/",
+      "shortDescription": "EzCC Module Tweak for iOS 11! Allows you to launch apps and activate system commands from the Control Center",
+      "category": "Tweaks",
+      "author": "Auxilium Team",
+      "commercial": false,
+      "date": "2018-03-27T06:29:15Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.4",
+          "iOSVersion": "11.3.1",
+          "repository": "Stable Auxilium Repo",
+          "date": "2018-07-07T22:21:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 91,
+            "good": 11,
+            "bad": 0,
+            "total": 12,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -27258,6 +27258,40 @@
       ]
     },
     {
+      "id": "com.yourepo.kiiimo.fiveicondockxi",
+      "name": "FiveIconDockXI",
+      "latest": "0.0.1-20",
+      "repository": "A KiiiMO GC - ARABIC ",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.fiveicondockxi/",
+      "shortDescription": "اضافة 5 أيقونات في شريط الدوك السفلي Five icon dock for iOS 11.",
+      "category": "Supports iOS 11",
+      "author": "Guillermo Moran",
+      "commercial": false,
+      "date": "2018-03-02T01:31:35Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-20",
+          "iOSVersion": "11.3.1",
+          "repository": "(null)",
+          "date": "2018-07-08T04:14:46Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.gmoran.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
@@ -27313,40 +27347,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.kiiimo.fiveicondockxi",
-      "name": "FiveIconDockXI",
-      "latest": "0.0.1-20",
-      "repository": "A KiiiMO GC - ARABIC ",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.fiveicondockxi/",
-      "shortDescription": "اضافة 5 أيقونات في شريط الدوك السفلي Five icon dock for iOS 11.",
-      "category": "Supports iOS 11",
-      "author": "Guillermo Moran",
-      "commercial": false,
-      "date": "2018-03-02T01:31:35Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.1-20",
-          "iOSVersion": "11.3.1",
-          "repository": "(null)",
-          "date": "2018-07-08T04:14:46Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -31065,22 +31065,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.gravitation",
+      "id": "me.alfhaily.gravitation",
       "name": "Gravitation",
       "latest": "1.0.3",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.gravitation/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/me.alfhaily.gravitation/",
       "shortDescription": "Add gravity to your home screen!",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "Majd Alfhaily",
-      "commercial": false,
-      "date": "2018-07-10T23:55:04Z",
+      "commercial": true,
+      "date": "2018-07-08T23:59:55Z",
       "versions": [
         {
           "tweakVersion": "1.0.3",
           "iOSVersion": "11.3.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T23:55:04Z",
+          "repository": "BigBoss",
+          "date": "2018-07-11T21:13:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -31099,22 +31099,22 @@
       ]
     },
     {
-      "id": "me.alfhaily.gravitation",
+      "id": "com.hackyouriphone.gravitation",
       "name": "Gravitation",
       "latest": "1.0.3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/me.alfhaily.gravitation/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.gravitation/",
       "shortDescription": "Add gravity to your home screen!",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "Majd Alfhaily",
-      "commercial": true,
-      "date": "2018-07-08T23:59:55Z",
+      "commercial": false,
+      "date": "2018-07-10T23:55:04Z",
       "versions": [
         {
           "tweakVersion": "1.0.3",
           "iOSVersion": "11.3.1",
-          "repository": "BigBoss",
-          "date": "2018-07-11T21:13:47Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T23:55:04Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -34482,22 +34482,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.iapfree",
-      "name": "iAPFree",
-      "latest": "4.0.1-2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.iapfree/",
-      "shortDescription": "iAPFree= iAP Cracker + more apps. iAPFree works with all apps/games that iAP Cracker supports and even more: all GameLoft games, Iinfinity Blade 2, Shoot Many Zombies,...",
-      "category": "HYI - Tweaks",
-      "author": "HYI",
+      "id": "repo.biteyourapple.net.iapfree",
+      "name": "IAPFree",
+      "latest": "4.0.1",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.iapfree/",
+      "shortDescription": "APFree= iAP Cracker + more apps. iAPFree works with all apps/games that iAP Cracker supports and eve",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
-      "date": "2018-05-05T15:11:18Z",
+      "date": "2018-07-08T13:01:48Z",
       "versions": [
         {
-          "tweakVersion": "4.0.1-2",
+          "tweakVersion": "4.0.1",
           "iOSVersion": "11.3.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-07T18:43:01Z",
+          "repository": "repo.biteyourapple.net",
+          "date": "2018-07-08T13:01:48Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -34516,22 +34516,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.iapfree",
-      "name": "IAPFree",
-      "latest": "4.0.1",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.iapfree/",
-      "shortDescription": "APFree= iAP Cracker + more apps. iAPFree works with all apps/games that iAP Cracker supports and eve",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "id": "com.hackyouriphone.iapfree",
+      "name": "iAPFree",
+      "latest": "4.0.1-2",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.iapfree/",
+      "shortDescription": "iAPFree= iAP Cracker + more apps. iAPFree works with all apps/games that iAP Cracker supports and even more: all GameLoft games, Iinfinity Blade 2, Shoot Many Zombies,...",
+      "category": "HYI - Tweaks",
+      "author": "HYI",
       "commercial": false,
-      "date": "2018-07-08T13:01:48Z",
+      "date": "2018-05-05T15:11:18Z",
       "versions": [
         {
-          "tweakVersion": "4.0.1",
+          "tweakVersion": "4.0.1-2",
           "iOSVersion": "11.3.1",
-          "repository": "repo.biteyourapple.net",
-          "date": "2018-07-08T13:01:48Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-07T18:43:01Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -36342,40 +36342,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.grampluselectra",
-      "name": "Instagram ++ (Electra)",
-      "latest": "1.8r-126",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.grampluselectra/",
-      "shortDescription": "Download & Copy Instagram media",
-      "category": "HYI - Tweaks",
-      "author": "UnlimApps Inc.",
-      "commercial": false,
-      "date": "2018-07-09T15:40:18Z",
-      "versions": [
-        {
-          "tweakVersion": "1.8r-126",
-          "iOSVersion": "11.3.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-09T15:40:18Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.kiiimo.grampluselectra",
       "name": "Instagram ++ (Electra)",
       "latest": "1.8r-159",
@@ -36432,6 +36398,40 @@
             "good": 10,
             "bad": 0,
             "total": 13,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.grampluselectra",
+      "name": "Instagram ++ (Electra)",
+      "latest": "1.8r-126",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.grampluselectra/",
+      "shortDescription": "Download & Copy Instagram media",
+      "category": "HYI - Tweaks",
+      "author": "UnlimApps Inc.",
+      "commercial": false,
+      "date": "2018-07-09T15:40:18Z",
+      "versions": [
+        {
+          "tweakVersion": "1.8r-126",
+          "iOSVersion": "11.3.1",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-09T15:40:18Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -37647,6 +37647,40 @@
       ]
     },
     {
+      "id": "com.yourepo.kiiimo.jairo",
+      "name": "Jairo",
+      "latest": "1.0.0",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.jairo/",
+      "shortDescription": "A redesigned power down menu for iOS! (More features coming soon!)",
+      "category": "Supports iOS 11",
+      "author": "6ilent",
+      "commercial": false,
+      "date": "2018-07-11T06:35:02Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "11.3.1",
+          "repository": "(null)",
+          "date": "2018-07-11T06:35:02Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.jairo",
       "name": "Jairo",
       "latest": "1.0.0",
@@ -37703,40 +37737,6 @@
             "good": 2,
             "bad": 0,
             "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.kiiimo.jairo",
-      "name": "Jairo",
-      "latest": "1.0.0",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.jairo/",
-      "shortDescription": "A redesigned power down menu for iOS! (More features coming soon!)",
-      "category": "Supports iOS 11",
-      "author": "6ilent",
-      "commercial": false,
-      "date": "2018-07-11T06:35:02Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0",
-          "iOSVersion": "11.3.1",
-          "repository": "(null)",
-          "date": "2018-07-11T06:35:02Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -39992,40 +39992,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.libertylite",
-      "name": "Liberty Lite",
-      "latest": "0.2.9",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.libertylite/",
-      "shortDescription": "A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.",
-      "category": "HYI - Tweaks",
-      "author": "Ryley Angus",
-      "commercial": false,
-      "date": "2018-07-08T19:17:20Z",
-      "versions": [
-        {
-          "tweakVersion": "0.2.9",
-          "iOSVersion": "11.3.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-08T19:17:20Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.jailbreaktr.libertylite",
       "name": "Liberty Lite",
       "latest": "0.2.9",
@@ -40102,6 +40068,40 @@
             "good": 36,
             "bad": 0,
             "total": 36,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.libertylite",
+      "name": "Liberty Lite",
+      "latest": "0.2.9",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.libertylite/",
+      "shortDescription": "A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.",
+      "category": "HYI - Tweaks",
+      "author": "Ryley Angus",
+      "commercial": false,
+      "date": "2018-07-08T19:17:20Z",
+      "versions": [
+        {
+          "tweakVersion": "0.2.9",
+          "iOSVersion": "11.3.1",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-08T19:17:20Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -45275,40 +45275,6 @@
       ]
     },
     {
-      "id": "com.jailbreaktr.mitsuhaxi",
-      "name": "MitsuhaXI",
-      "latest": "0.4.0",
-      "repository": "JailbreakTR Repository",
-      "url": "http://cydia.saurik.com/package/com.jailbreaktr.mitsuhaxi/",
-      "shortDescription": "Apple Music ve Spotify için wave efekti verin.",
-      "category": "Tweaks",
-      "author": "Yusuf Özgül",
-      "commercial": false,
-      "date": "2018-07-07T10:32:08Z",
-      "versions": [
-        {
-          "tweakVersion": "0.4.0",
-          "iOSVersion": "11.3.1",
-          "repository": "JailbreakTR Repository",
-          "date": "2018-07-07T10:32:08Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "io.ominousness.mitsuhaxi",
       "name": "MitsuhaXI",
       "latest": "0.5.3",
@@ -45477,6 +45443,40 @@
       ]
     },
     {
+      "id": "com.jailbreaktr.mitsuhaxi",
+      "name": "MitsuhaXI",
+      "latest": "0.4.0",
+      "repository": "JailbreakTR Repository",
+      "url": "http://cydia.saurik.com/package/com.jailbreaktr.mitsuhaxi/",
+      "shortDescription": "Apple Music ve Spotify için wave efekti verin.",
+      "category": "Tweaks",
+      "author": "Yusuf Özgül",
+      "commercial": false,
+      "date": "2018-07-07T10:32:08Z",
+      "versions": [
+        {
+          "tweakVersion": "0.4.0",
+          "iOSVersion": "11.3.1",
+          "repository": "JailbreakTR Repository",
+          "date": "2018-07-07T10:32:08Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "mobileterminal-applesdk",
       "name": "MobileTerminal",
       "latest": "520-2",
@@ -45598,9 +45598,9 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 4,
+            "good": 5,
             "bad": 0,
-            "total": 4,
+            "total": 5,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -54734,40 +54734,6 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.pikabu",
-      "name": "Pikabu",
-      "latest": "1.0.1",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.pikabu/",
-      "shortDescription": "Minimalistic volume hud on the notch, Headphone detection, Support iOS 10.0 to iOS 11.1.2",
-      "category": "Tweaks",
-      "author": "Jeffrey Chan",
-      "commercial": false,
-      "date": "2018-03-04T03:59:41Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.1",
-          "iOSVersion": "11.3.1",
-          "repository": "Xarold Repo",
-          "date": "2018-07-07T17:16:20Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.jeffrey.pikabu",
       "name": "Pikabu",
       "latest": "1.1.0",
@@ -54790,6 +54756,40 @@
             "good": 7,
             "bad": 0,
             "total": 7,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.repo.xarold.com.pikabu",
+      "name": "Pikabu",
+      "latest": "1.0.1",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.pikabu/",
+      "shortDescription": "Minimalistic volume hud on the notch, Headphone detection, Support iOS 10.0 to iOS 11.1.2",
+      "category": "Tweaks",
+      "author": "Jeffrey Chan",
+      "commercial": false,
+      "date": "2018-03-04T03:59:41Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "11.3.1",
+          "repository": "Xarold Repo",
+          "date": "2018-07-07T17:16:20Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -57547,22 +57547,22 @@
       ]
     },
     {
-      "id": "com.jailbreaktr.realcc",
+      "id": "com.yourcompany.realcc",
       "name": "RealCC",
-      "latest": "1.0.1",
-      "repository": "JailbreakTR Repository",
-      "url": "http://cydia.saurik.com/package/com.jailbreaktr.realcc/",
-      "shortDescription": "iOS 11 Wifi ve bluetooth'u denetim merkezinden tamamen kapatın.",
+      "latest": "0.0.4-1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.yourcompany.realcc/",
+      "shortDescription": "An awesome MobileSubstrate tweak!",
       "category": "Tweaks",
-      "author": "Yusuf Özgül",
+      "author": "System Administrator",
       "commercial": false,
-      "date": "2018-07-07T17:18:09Z",
+      "date": "2018-03-15T03:10:30Z",
       "versions": [
         {
-          "tweakVersion": "1.0.1",
+          "tweakVersion": "0.0.4-1",
           "iOSVersion": "11.3.1",
-          "repository": "JailbreakTR Repository",
-          "date": "2018-07-07T17:18:09Z",
+          "repository": "(null)",
+          "date": "2018-07-07T06:51:43Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -57615,22 +57615,22 @@
       ]
     },
     {
-      "id": "com.yourcompany.realcc",
+      "id": "com.jailbreaktr.realcc",
       "name": "RealCC",
-      "latest": "0.0.4-1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.yourcompany.realcc/",
-      "shortDescription": "An awesome MobileSubstrate tweak!",
+      "latest": "1.0.1",
+      "repository": "JailbreakTR Repository",
+      "url": "http://cydia.saurik.com/package/com.jailbreaktr.realcc/",
+      "shortDescription": "iOS 11 Wifi ve bluetooth'u denetim merkezinden tamamen kapatın.",
       "category": "Tweaks",
-      "author": "System Administrator",
+      "author": "Yusuf Özgül",
       "commercial": false,
-      "date": "2018-03-15T03:10:30Z",
+      "date": "2018-07-07T17:18:09Z",
       "versions": [
         {
-          "tweakVersion": "0.0.4-1",
+          "tweakVersion": "1.0.1",
           "iOSVersion": "11.3.1",
-          "repository": "(null)",
-          "date": "2018-07-07T06:51:43Z",
+          "repository": "JailbreakTR Repository",
+          "date": "2018-07-07T17:18:09Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -67179,40 +67179,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.sugarcane",
-      "name": "SugarCane",
-      "latest": "1.0.0-1+debug",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.sugarcane/",
-      "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
-      "category": "HYI - Tweaks",
-      "author": "iOS Creatix",
-      "commercial": false,
-      "date": "2018-03-15T22:26:41Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0-1+debug",
-          "iOSVersion": "11.3.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-08T11:31:34Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.ioscreatix.sugarcane",
       "name": "SugarCane",
       "latest": "1.0.0",
@@ -67255,6 +67221,40 @@
             "good": 19,
             "bad": 0,
             "total": 19,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.sugarcane",
+      "name": "SugarCane",
+      "latest": "1.0.0-1+debug",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.sugarcane/",
+      "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
+      "category": "HYI - Tweaks",
+      "author": "iOS Creatix",
+      "commercial": false,
+      "date": "2018-03-15T22:26:41Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0-1+debug",
+          "iOSVersion": "11.3.1",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-08T11:31:34Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -73260,39 +73260,6 @@
       ]
     },
     {
-      "id": "com.macciti.veexillum",
-      "name": "Veexillum",
-      "latest": "2.7",
-      "repository": "ZodTTD & MacCiti (Archive)",
-      "url": "http://cydia.saurik.com/package/com.macciti.veexillum/",
-      "shortDescription": "True Simplicity",
-      "category": "Themes (SpringBoard)",
-      "author": "veerklempt",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "2.7",
-          "iOSVersion": "11.3.1",
-          "repository": "ZodTTD & MacCiti (Archive)",
-          "date": "2018-07-07T20:49:07Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 75,
-            "good": 3,
-            "bad": 0,
-            "total": 4,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.veexillum",
       "name": "Veexillum",
       "latest": "2.7",
@@ -73313,6 +73280,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 4,
+            "bad": 0,
+            "total": 4,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.macciti.veexillum",
+      "name": "Veexillum",
+      "latest": "2.7",
+      "repository": "ZodTTD & MacCiti (Archive)",
+      "url": "http://cydia.saurik.com/package/com.macciti.veexillum/",
+      "shortDescription": "True Simplicity",
+      "category": "Themes (SpringBoard)",
+      "author": "veerklempt",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "2.7",
+          "iOSVersion": "11.3.1",
+          "repository": "ZodTTD & MacCiti (Archive)",
+          "date": "2018-07-07T20:49:07Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 75,
+            "good": 3,
             "bad": 0,
             "total": 4,
             "arch32": {
@@ -73535,40 +73535,6 @@
       ]
     },
     {
-      "id": "org.coolstar.ventana",
-      "name": "Ventana",
-      "latest": "1.2.1",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/org.coolstar.ventana/",
-      "shortDescription": "modern lock screen inspired by Windows 10",
-      "category": "Tweaks",
-      "author": "CoolStar & Jeremy Goulet",
-      "commercial": true,
-      "date": "2018-03-08T08:00:35Z",
-      "versions": [
-        {
-          "tweakVersion": "1.2.1",
-          "iOSVersion": "11.3.1",
-          "repository": "BigBoss",
-          "date": "2018-07-07T22:25:54Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 88,
-            "good": 8,
-            "bad": 0,
-            "total": 9,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.ventana",
       "name": "Ventana",
       "latest": "1.2k",
@@ -73591,6 +73557,40 @@
             "good": 0,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.coolstar.ventana",
+      "name": "Ventana",
+      "latest": "1.2.1",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/org.coolstar.ventana/",
+      "shortDescription": "modern lock screen inspired by Windows 10",
+      "category": "Tweaks",
+      "author": "CoolStar & Jeremy Goulet",
+      "commercial": true,
+      "date": "2018-03-08T08:00:35Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.1",
+          "iOSVersion": "11.3.1",
+          "repository": "BigBoss",
+          "date": "2018-07-07T22:25:54Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 88,
+            "good": 8,
+            "bad": 0,
+            "total": 9,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -74424,40 +74424,6 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.volskip11",
-      "name": "VolSkip11",
-      "latest": "0.0.1-28",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.volskip11/",
-      "shortDescription": "Skip tracks by holding the Volume buttons.",
-      "category": "Tweaks",
-      "author": "rob311",
-      "commercial": false,
-      "date": "2018-03-02T16:14:07Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.1-28",
-          "iOSVersion": "11.3.1",
-          "repository": "Xarold Repo",
-          "date": "2018-07-10T07:21:59Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.rob311.volskip11",
       "name": "VolSkip11",
       "latest": "0.0.1-28",
@@ -74480,6 +74446,40 @@
             "good": 0,
             "bad": 0,
             "total": 4,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.repo.xarold.com.volskip11",
+      "name": "VolSkip11",
+      "latest": "0.0.1-28",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.volskip11/",
+      "shortDescription": "Skip tracks by holding the Volume buttons.",
+      "category": "Tweaks",
+      "author": "rob311",
+      "commercial": false,
+      "date": "2018-03-02T16:14:07Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-28",
+          "iOSVersion": "11.3.1",
+          "repository": "Xarold Repo",
+          "date": "2018-07-10T07:21:59Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -75742,40 +75742,6 @@
       ]
     },
     {
-      "id": "com.tapsharp.whatsappdarkmode",
-      "name": "WhatsApp Dark Mode",
-      "latest": "1.0.3",
-      "repository": "TapSharp",
-      "url": "http://cydia.saurik.com/package/com.tapsharp.whatsappdarkmode/",
-      "shortDescription": "WhatsApp Dark Mode. Perfect for battery life on OLED displays like the iPhone X.",
-      "category": "Tweaks",
-      "author": "Neo Ighodaro",
-      "commercial": false,
-      "date": "2018-04-12T16:42:53Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.3",
-          "iOSVersion": "11.3.1",
-          "repository": "Packix",
-          "date": "2018-07-07T16:10:07Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 72,
-            "good": 8,
-            "bad": 0,
-            "total": 11,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.whatsappdarkmode",
       "name": "WhatsApp Dark Mode",
       "latest": "0.0.3",
@@ -75798,6 +75764,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.tapsharp.whatsappdarkmode",
+      "name": "WhatsApp Dark Mode",
+      "latest": "1.0.3",
+      "repository": "TapSharp",
+      "url": "http://cydia.saurik.com/package/com.tapsharp.whatsappdarkmode/",
+      "shortDescription": "WhatsApp Dark Mode. Perfect for battery life on OLED displays like the iPhone X.",
+      "category": "Tweaks",
+      "author": "Neo Ighodaro",
+      "commercial": false,
+      "date": "2018-04-12T16:42:53Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.3",
+          "iOSVersion": "11.3.1",
+          "repository": "Packix",
+          "date": "2018-07-07T16:10:07Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 72,
+            "good": 8,
+            "bad": 0,
+            "total": 11,
             "arch32": {
               "total": 0,
               "good": 0,
