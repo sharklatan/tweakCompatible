@@ -203,10 +203,10 @@
       "date": "2018-07-13T17:50:01Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 60,
-        "good": 3,
+        "percentage": 66,
+        "good": 4,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -259,6 +259,15 @@
           "date": "2018-07-13T22:21:18Z",
           "userName": "squirmingnoodle",
           "issueNumber": 25704,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-07-14T14:56:41Z",
+          "userName": "Shayme",
+          "issueNumber": 26506,
           "arch32": false
         }
       ]
