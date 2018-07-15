@@ -226,10 +226,10 @@
       "date": "2018-07-08T03:30:17Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 60,
         "good": 6,
         "bad": 0,
-        "total": 9,
+        "total": 10,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -318,6 +318,15 @@
           "date": "2018-07-15T09:13:31Z",
           "userName": "Superkloton",
           "issueNumber": 27074,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-07-15T13:05:50Z",
+          "userName": "BlankTenshii",
+          "issueNumber": 27199,
           "arch32": false
         }
       ]
