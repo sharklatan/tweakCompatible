@@ -1016,9 +1016,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1044,6 +1044,15 @@
           "date": "2018-07-14T10:49:27Z",
           "userName": "Vanquished79",
           "issueNumber": 26349,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "Work prefect on iphone 8plus iOS 11.4b3",
+          "date": "2018-07-15T10:35:18Z",
+          "userName": "JerGisi",
+          "issueNumber": 27143,
           "arch32": false
         }
       ]
