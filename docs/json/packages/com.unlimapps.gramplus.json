@@ -1,7 +1,7 @@
 {
   "id": "com.unlimapps.gramplus",
   "name": "Instagram ++",
-  "latest": "1.8r-64",
+  "latest": "1.8r-164",
   "repository": "beta.unlimapps.com",
   "url": "http://beta.unlimapps.com/",
   "shortDescription": "Download & Copy Instagram media",
@@ -1155,11 +1155,11 @@
       "repository": "beta.unlimapps.com",
       "date": "2018-07-10T21:53:24Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 77,
+        "calculatedStatus": "Likely working",
+        "percentage": 70,
         "good": 7,
         "bad": 0,
-        "total": 9,
+        "total": 10,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1248,6 +1248,15 @@
           "date": "2018-07-12T14:06:30Z",
           "userName": "312rad",
           "issueNumber": 24243,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "It keeps crashing everytime I launch Instagram",
+          "date": "2018-07-15T09:53:43Z",
+          "userName": "Shengheer",
+          "issueNumber": 27118,
           "arch32": false
         }
       ]
