@@ -2138,9 +2138,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 98,
-        "good": 79,
+        "good": 80,
         "bad": 0,
-        "total": 80,
+        "total": 81,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2868,6 +2868,15 @@
           "date": "2018-07-14T08:26:13Z",
           "userName": "Adatrem",
           "issueNumber": 26194,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-07-15T04:44:42Z",
+          "userName": "crossfiire",
+          "issueNumber": 26933,
           "arch32": false
         }
       ]
