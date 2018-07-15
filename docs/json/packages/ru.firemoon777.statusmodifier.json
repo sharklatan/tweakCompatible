@@ -229,9 +229,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -248,6 +248,15 @@
           "date": "2018-07-13T15:22:15Z",
           "userName": "babynarwhal",
           "issueNumber": 25305,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPod7,1",
+          "issues": "",
+          "date": "2018-07-15T08:47:17Z",
+          "userName": "BrianLeek",
+          "issueNumber": 27056,
           "arch32": false
         }
       ]
