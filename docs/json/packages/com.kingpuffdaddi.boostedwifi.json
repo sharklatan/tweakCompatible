@@ -223,9 +223,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 19,
+        "good": 20,
         "bad": 0,
-        "total": 19,
+        "total": 20,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -404,6 +404,15 @@
           "date": "2018-07-11T12:13:23Z",
           "userName": "giorgioiavicoli",
           "issueNumber": 22510,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone6,2",
+          "issues": "",
+          "date": "2018-07-15T06:55:44Z",
+          "userName": "BackStageCoin77AKAh",
+          "issueNumber": 26996,
           "arch32": false
         }
       ]
