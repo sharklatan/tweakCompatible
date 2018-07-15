@@ -226,10 +226,10 @@
       "date": "2018-07-08T03:30:17Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 62,
-        "good": 5,
+        "percentage": 66,
+        "good": 6,
         "bad": 0,
-        "total": 8,
+        "total": 9,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -309,6 +309,15 @@
           "date": "2018-07-13T02:41:29Z",
           "userName": "proellusionist",
           "issueNumber": 24850,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "Fully working. Some think this removes BC but it just lets you swipe them away. ",
+          "date": "2018-07-15T09:13:31Z",
+          "userName": "Superkloton",
+          "issueNumber": 27074,
           "arch32": false
         }
       ]
