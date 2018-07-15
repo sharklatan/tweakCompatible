@@ -17,10 +17,10 @@
       "date": "2018-07-15T04:23:00Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 50,
         "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -55,6 +55,15 @@
           "date": "2018-07-15T09:31:58Z",
           "userName": "Wea1thRS",
           "issueNumber": 27083,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Did not work on iPX",
+          "date": "2018-07-15T12:08:26Z",
+          "userName": "icydiafire",
+          "issueNumber": 27179,
           "arch32": false
         }
       ]
