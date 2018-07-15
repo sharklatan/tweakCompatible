@@ -1617,10 +1617,10 @@
       "date": "2018-07-13T14:47:24Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 86,
-        "good": 13,
+        "percentage": 87,
+        "good": 14,
         "bad": 0,
-        "total": 15,
+        "total": 16,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1763,6 +1763,15 @@
           "date": "2018-07-14T19:06:21Z",
           "userName": "SanderSRB",
           "issueNumber": 26686,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-07-15T00:30:28Z",
+          "userName": "buitim",
+          "issueNumber": 26840,
           "arch32": false
         }
       ]
