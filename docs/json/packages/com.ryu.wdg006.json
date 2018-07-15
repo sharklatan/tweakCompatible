@@ -347,9 +347,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -384,6 +384,15 @@
           "date": "2018-07-15T10:32:56Z",
           "userName": "nailcan123",
           "issueNumber": 27137,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "Heavy load on battery",
+          "date": "2018-07-15T11:27:08Z",
+          "userName": "MrKyoo",
+          "issueNumber": 27168,
           "arch32": false
         }
       ]
