@@ -210,10 +210,10 @@
       "date": "2018-07-07T06:35:57Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 83,
         "good": 5,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -266,6 +266,15 @@
           "date": "2018-07-11T12:46:23Z",
           "userName": "mrswagbhinav",
           "issueNumber": 22554,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-07-15T08:38:33Z",
+          "userName": "HunterBeckham",
+          "issueNumber": 27053,
           "arch32": false
         }
       ]
