@@ -278,11 +278,11 @@
       "repository": "BigBoss",
       "date": "2018-07-12T10:43:13Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -326,6 +326,15 @@
           "date": "2018-07-14T12:44:14Z",
           "userName": "ManCub61",
           "issueNumber": 26441,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-07-15T12:23:54Z",
+          "userName": "ValidatePro",
+          "issueNumber": 27181,
           "arch32": false
         }
       ]
