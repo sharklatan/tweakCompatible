@@ -17,10 +17,10 @@
       "date": "2018-07-13T18:52:04Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 40,
+        "percentage": 33,
         "good": 2,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -73,6 +73,15 @@
           "date": "2018-07-14T17:18:59Z",
           "userName": "Tokyed",
           "issueNumber": 26572,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Not working for me. Maybe it’s the other CC tweaks I have installed.",
+          "date": "2018-07-14T23:51:00Z",
+          "userName": "serapoint",
+          "issueNumber": 26819,
           "arch32": false
         }
       ]
