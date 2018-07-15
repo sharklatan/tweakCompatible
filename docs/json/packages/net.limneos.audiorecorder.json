@@ -463,10 +463,10 @@
       "date": "2018-07-08T19:14:09Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 61,
         "good": 8,
         "bad": 0,
-        "total": 12,
+        "total": 13,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -582,6 +582,15 @@
           "date": "2018-07-14T20:40:42Z",
           "userName": "Farzadsv",
           "issueNumber": 26726,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2018-07-15T10:29:06Z",
+          "userName": "ddkvn",
+          "issueNumber": 27133,
           "arch32": false
         }
       ]
