@@ -1,7 +1,7 @@
 {
   "id": "org.hacx.callrecorder",
   "name": "Call Recorder (iOS)",
-  "latest": "2.38-6",
+  "latest": "2.39",
   "repository": "hAcx Repository",
   "url": "http://hacx.org/repo/",
   "shortDescription": "World famous Call Recorder",
@@ -283,6 +283,37 @@
           "date": "2018-07-13T01:15:09Z",
           "userName": "halukunal",
           "issueNumber": 24794,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.39",
+      "iOSVersion": "11.3.1",
+      "repository": "hAcx Repository",
+      "date": "2018-07-15T10:21:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-07-15T10:21:54Z",
+          "userName": "hassanm12",
+          "issueNumber": 27131,
           "arch32": false
         }
       ]
