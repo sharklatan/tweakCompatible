@@ -462,11 +462,11 @@
       "repository": "Packix",
       "date": "2018-07-12T16:38:55Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -492,6 +492,15 @@
           "date": "2018-07-13T22:27:05Z",
           "userName": "abdullahalbrahim",
           "issueNumber": 25720,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Won’t download... I’m on iOS 11.4 beta 3, other reviews said it was working but won’t even install for me ",
+          "date": "2018-07-15T06:09:04Z",
+          "userName": "toby666",
+          "issueNumber": 26974,
           "arch32": false
         }
       ]

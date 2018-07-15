@@ -139,7 +139,7 @@
     {
       "id": "libactivator",
       "name": "Activator",
-      "latest": "1.9.13~beta2",
+      "latest": "1.9.12",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/libactivator/",
       "shortDescription": "Centralized gestures, button and shortcut management for iOS",
@@ -845,6 +845,39 @@
       ]
     },
     {
+      "id": "com.cpdigitaldarkroom.barmoji",
+      "name": "Barmoji",
+      "latest": "1.0",
+      "repository": "CP Digital Darkroom Beta Repo",
+      "url": "http://beta.cpdigitaldarkroom.com/",
+      "shortDescription": "Quick emoji access for iPhone X",
+      "category": "Tweaks",
+      "author": "CP Digital Darkroom",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.4",
+          "repository": "CP Digital Darkroom Beta Repo",
+          "date": "2018-07-11T15:05:07Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.barmoji",
       "name": "Barmoji",
       "latest": "1.0",
@@ -879,45 +912,12 @@
       ]
     },
     {
-      "id": "com.cpdigitaldarkroom.barmoji",
-      "name": "Barmoji",
-      "latest": "1.0",
-      "repository": "CP Digital Darkroom Beta Repo",
-      "url": "http://beta.cpdigitaldarkroom.com/",
-      "shortDescription": "Quick emoji access for iPhone X",
-      "category": "Tweaks",
-      "author": "CP Digital Darkroom",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.0",
-          "iOSVersion": "11.4",
-          "repository": "CP Digital Darkroom Beta Repo",
-          "date": "2018-07-11T15:05:07Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.rbt.batterylife",
       "name": "BatteryLife",
-      "latest": "1.7.0",
+      "latest": "1.8.0~b12",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.rbt.batterylife/",
-      "shortDescription": "Displays useful information about battery health",
+      "shortDescription": "Displays useful information about your device's battery health [b1] Completely replaced the main app with the official App Store version. Please report ANY bugs and missing languages to batterylife1.8.x@rbtdigital.com. Thank you very much! [b2] Several fixes. [b3] Possible fix for iOS 8 crash. General bug fixes. [b4] iOS 8 bug fixes. [b5] Updated app a lot. [b6] See b5. [b7] See b6. [b8] App is now compatible with iOS 11. [b9] Bugfixes. [b10] Fix for missing app icon. [b11] Possible fix for the status bar options. [b12] Fix for b11.",
       "category": "Utilities",
       "author": "rbt",
       "commercial": false,
@@ -2342,11 +2342,11 @@
           "repository": "Packix",
           "date": "2018-07-12T16:38:55Z",
           "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
+            "calculatedStatus": "Likely working",
+            "percentage": 66,
             "good": 2,
             "bad": 0,
-            "total": 2,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -3800,7 +3800,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-164",
+      "latest": "1.8r-64",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
