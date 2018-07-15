@@ -770,11 +770,11 @@
       "repository": "AidsMcGhee",
       "date": "2018-07-12T19:15:03Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 40,
-        "good": 10,
+        "calculatedStatus": "Likely working",
+        "percentage": 42,
+        "good": 11,
         "bad": 0,
-        "total": 25,
+        "total": 26,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1007,6 +1007,15 @@
           "date": "2018-07-15T04:43:45Z",
           "userName": "sudeep-08",
           "issueNumber": 26930,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-07-15T07:57:11Z",
+          "userName": "crossfiire",
+          "issueNumber": 27027,
           "arch32": false
         }
       ]
