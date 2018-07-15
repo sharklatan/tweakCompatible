@@ -77,10 +77,10 @@
       "date": "2018-07-09T14:51:29Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 4,
+        "percentage": 71,
+        "good": 5,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -142,6 +142,15 @@
           "date": "2018-07-12T13:15:07Z",
           "userName": "noetic97",
           "issueNumber": 24209,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Strange issue / apps icon shows in every opening",
+          "date": "2018-07-15T06:09:00Z",
+          "userName": "alhatmy",
+          "issueNumber": 26973,
           "arch32": false
         }
       ]
