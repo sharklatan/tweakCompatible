@@ -1158,10 +1158,10 @@
       "date": "2018-07-14T15:49:22Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 87,
         "good": 7,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1232,6 +1232,15 @@
           "date": "2018-07-15T05:08:28Z",
           "userName": "thekingkb",
           "issueNumber": 26942,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad5,4",
+          "issues": "Doesn’t work on iPad.",
+          "date": "2018-07-15T09:31:16Z",
+          "userName": "TheWeirdDev",
+          "issueNumber": 27081,
           "arch32": false
         }
       ]
