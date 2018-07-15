@@ -2015,22 +2015,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.aerial",
+      "id": "com.hackyouriphone.aerial",
       "name": "Aerial",
       "latest": "1.1",
-      "repository": "BiteYourApple",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.aerial/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.aerial/",
       "shortDescription": "Colour your status bar icons!",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "category": "HYI - Tweaks",
+      "author": "Surenix",
       "commercial": false,
-      "date": "2018-02-28T19:07:19Z",
+      "date": "2018-04-04T04:12:53Z",
       "versions": [
         {
           "tweakVersion": "1.1",
           "iOSVersion": "11.3.1",
-          "repository": "repo.biteyourapple.net",
-          "date": "2018-07-10T18:43:43Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-08T14:46:04Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -2083,22 +2083,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.aerial",
+      "id": "repo.biteyourapple.net.aerial",
       "name": "Aerial",
       "latest": "1.1",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.aerial/",
+      "repository": "BiteYourApple",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.aerial/",
       "shortDescription": "Colour your status bar icons!",
-      "category": "HYI - Tweaks",
-      "author": "Surenix",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
-      "date": "2018-04-04T04:12:53Z",
+      "date": "2018-02-28T19:07:19Z",
       "versions": [
         {
           "tweakVersion": "1.1",
           "iOSVersion": "11.3.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-08T14:46:04Z",
+          "repository": "repo.biteyourapple.net",
+          "date": "2018-07-10T18:43:43Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10184,39 +10184,6 @@
       ]
     },
     {
-      "id": "net.limneos.bioprotect",
-      "name": "BioProtect",
-      "latest": "2.3-8",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/net.limneos.bioprotect/",
-      "shortDescription": "Protect your apps with Touch ID!",
-      "category": "Tweaks",
-      "author": "Elias Limneos",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "2.3-8",
-          "iOSVersion": "11.3.1",
-          "repository": "BigBoss",
-          "date": "2018-07-07T07:24:56Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.bioprotect",
       "name": "BioProtect",
       "latest": "2.3-8",
@@ -10239,6 +10206,39 @@
             "good": 0,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "net.limneos.bioprotect",
+      "name": "BioProtect",
+      "latest": "2.3-8",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/net.limneos.bioprotect/",
+      "shortDescription": "Protect your apps with Touch ID!",
+      "category": "Tweaks",
+      "author": "Elias Limneos",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "2.3-8",
+          "iOSVersion": "11.3.1",
+          "repository": "BigBoss",
+          "date": "2018-07-07T07:24:56Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -17190,40 +17190,6 @@
       ]
     },
     {
-      "id": "com.jailbreaktr.cocoatop64",
-      "name": "CocoaTop",
-      "latest": "2.0.2+",
-      "repository": "JailbreakTR Repository",
-      "url": "http://cydia.saurik.com/package/com.jailbreaktr.cocoatop64/",
-      "shortDescription": "Sistem kaynakları kullanımını görüntüleyin.",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "date": "2018-03-13T17:46:03Z",
-      "versions": [
-        {
-          "tweakVersion": "2.0.2+",
-          "iOSVersion": "11.3.1",
-          "repository": "JailbreakTR Repository",
-          "date": "2018-07-08T19:35:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -17258,27 +17224,28 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop",
+      "id": "com.jailbreaktr.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
+      "latest": "2.0.2+",
+      "repository": "JailbreakTR Repository",
+      "url": "http://cydia.saurik.com/package/com.jailbreaktr.cocoatop64/",
+      "shortDescription": "Sistem kaynakları kullanımını görüntüleyin.",
       "category": "Utilities",
       "author": "Domo",
       "commercial": false,
+      "date": "2018-03-13T17:46:03Z",
       "versions": [
         {
-          "tweakVersion": "2.0.1",
+          "tweakVersion": "2.0.2+",
           "iOSVersion": "11.3.1",
-          "repository": "BigBoss",
-          "date": "2018-07-07T20:40:15Z",
+          "repository": "JailbreakTR Repository",
+          "date": "2018-07-08T19:35:33Z",
           "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 10,
-            "good": 1,
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
             "bad": 0,
-            "total": 10,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -17313,6 +17280,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "11.3.1",
+          "repository": "BigBoss",
+          "date": "2018-07-07T20:40:15Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 10,
+            "good": 1,
+            "bad": 0,
+            "total": 10,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -25425,40 +25425,6 @@
       ]
     },
     {
-      "id": "com.auxilium.ezcc",
-      "name": "EzCC",
-      "latest": "1.2.4",
-      "repository": "Auxilium Development Repo",
-      "url": "http://cydia.saurik.com/package/com.auxilium.ezcc/",
-      "shortDescription": "EzCC Module Tweak for iOS 11! Allows you to launch apps and activate system commands from the Control Center",
-      "category": "Tweaks",
-      "author": "Auxilium Team",
-      "commercial": false,
-      "date": "2018-03-27T06:29:15Z",
-      "versions": [
-        {
-          "tweakVersion": "1.2.4",
-          "iOSVersion": "11.3.1",
-          "repository": "Stable Auxilium Repo",
-          "date": "2018-07-07T22:21:43Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 91,
-            "good": 11,
-            "bad": 0,
-            "total": 12,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.ezcc",
       "name": "EzCC",
       "latest": "1.2.4",
@@ -25481,6 +25447,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.auxilium.ezcc",
+      "name": "EzCC",
+      "latest": "1.2.4",
+      "repository": "Auxilium Development Repo",
+      "url": "http://cydia.saurik.com/package/com.auxilium.ezcc/",
+      "shortDescription": "EzCC Module Tweak for iOS 11! Allows you to launch apps and activate system commands from the Control Center",
+      "category": "Tweaks",
+      "author": "Auxilium Team",
+      "commercial": false,
+      "date": "2018-03-27T06:29:15Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.4",
+          "iOSVersion": "11.3.1",
+          "repository": "Stable Auxilium Repo",
+          "date": "2018-07-07T22:21:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 91,
+            "good": 11,
+            "bad": 0,
+            "total": 12,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -27595,6 +27595,73 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.fiveicondockxi",
+      "name": "FiveIconDockXI",
+      "latest": "0.0.1-20",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.fiveicondockxi/",
+      "shortDescription": "Five icon dock for iOS 11.",
+      "category": "HYI - Tweaks",
+      "author": "Guillermo Moran",
+      "commercial": false,
+      "date": "2018-03-02T03:41:12Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-20",
+          "iOSVersion": "11.3.1",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-07T16:51:56Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 5,
+            "bad": 0,
+            "total": 5,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "me.gmoran.fiveicondockxi",
+      "name": "FiveIconDockXI",
+      "latest": "0.0.1-20",
+      "repository": "GMoran Beta Software",
+      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
+      "shortDescription": "Five icon dock for iOS 11.",
+      "category": "Tweaks",
+      "author": "Guillermo Moran",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-20",
+          "iOSVersion": "11.3.1",
+          "repository": "GMoran Beta Software",
+          "date": "2018-07-07T07:59:56Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 97,
+            "good": 40,
+            "bad": 0,
+            "total": 41,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.yourepo.kiiimo.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
@@ -27651,73 +27718,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.fiveicondockxi",
-      "name": "FiveIconDockXI",
-      "latest": "0.0.1-20",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.fiveicondockxi/",
-      "shortDescription": "Five icon dock for iOS 11.",
-      "category": "HYI - Tweaks",
-      "author": "Guillermo Moran",
-      "commercial": false,
-      "date": "2018-03-02T03:41:12Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.1-20",
-          "iOSVersion": "11.3.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-07T16:51:56Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 5,
-            "bad": 0,
-            "total": 5,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "me.gmoran.fiveicondockxi",
-      "name": "FiveIconDockXI",
-      "latest": "0.0.1-20",
-      "repository": "GMoran Beta Software",
-      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
-      "shortDescription": "Five icon dock for iOS 11.",
-      "category": "Tweaks",
-      "author": "Guillermo Moran",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.0.1-20",
-          "iOSVersion": "11.3.1",
-          "repository": "GMoran Beta Software",
-          "date": "2018-07-07T07:59:56Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 97,
-            "good": 40,
-            "bad": 0,
-            "total": 41,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -30658,74 +30658,6 @@
       ]
     },
     {
-      "id": "com.modmyi.glasklart2",
-      "name": "Glasklart",
-      "latest": "5.52",
-      "repository": "ModMyi (Archive)",
-      "url": "http://cydia.saurik.com/package/com.modmyi.glasklart2/",
-      "shortDescription": "Glasklart is swedish, it means clear as glass",
-      "category": "Themes (SpringBoard)",
-      "author": "Max Rudberg",
-      "commercial": true,
-      "date": "2018-02-28T20:52:24Z",
-      "versions": [
-        {
-          "tweakVersion": "5.52",
-          "iOSVersion": "11.3.1",
-          "repository": "ModMyi (Archive)",
-          "date": "2018-07-07T08:42:02Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "at.dreamnet.glasklarthd",
-      "name": "Glasklart",
-      "latest": "5.59",
-      "repository": "dReAmNeT Repo",
-      "url": "http://cydia.saurik.com/package/at.dreamnet.glasklarthd/",
-      "shortDescription": "Rethought and remade for retina display.",
-      "category": "Themes",
-      "author": "Max Rudberg",
-      "commercial": false,
-      "date": "2018-07-09T04:05:46Z",
-      "versions": [
-        {
-          "tweakVersion": "5.59",
-          "iOSVersion": "11.3.1",
-          "repository": "dReAmNeT Repo",
-          "date": "2018-07-09T04:05:46Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.modmyi.glasklarthd",
       "name": "Glasklart",
       "latest": "5.43",
@@ -30776,6 +30708,74 @@
           "iOSVersion": "11.3.1",
           "repository": "HackYouriPhone",
           "date": "2018-07-10T11:29:34Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.modmyi.glasklart2",
+      "name": "Glasklart",
+      "latest": "5.52",
+      "repository": "ModMyi (Archive)",
+      "url": "http://cydia.saurik.com/package/com.modmyi.glasklart2/",
+      "shortDescription": "Glasklart is swedish, it means clear as glass",
+      "category": "Themes (SpringBoard)",
+      "author": "Max Rudberg",
+      "commercial": true,
+      "date": "2018-02-28T20:52:24Z",
+      "versions": [
+        {
+          "tweakVersion": "5.52",
+          "iOSVersion": "11.3.1",
+          "repository": "ModMyi (Archive)",
+          "date": "2018-07-07T08:42:02Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "at.dreamnet.glasklarthd",
+      "name": "Glasklart",
+      "latest": "5.59",
+      "repository": "dReAmNeT Repo",
+      "url": "http://cydia.saurik.com/package/at.dreamnet.glasklarthd/",
+      "shortDescription": "Rethought and remade for retina display.",
+      "category": "Themes",
+      "author": "Max Rudberg",
+      "commercial": false,
+      "date": "2018-07-09T04:05:46Z",
+      "versions": [
+        {
+          "tweakVersion": "5.59",
+          "iOSVersion": "11.3.1",
+          "repository": "dReAmNeT Repo",
+          "date": "2018-07-09T04:05:46Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -33150,40 +33150,6 @@
       ]
     },
     {
-      "id": "com.dannyglover.hidelabels10",
-      "name": "HideLabels10",
-      "latest": "1.0",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.dannyglover.hidelabels10/",
-      "shortDescription": "Hide app labels on iOS 10.",
-      "category": "Tweaks",
-      "author": "Danny Glover",
-      "commercial": false,
-      "date": "2018-03-04T20:02:05Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0",
-          "iOSVersion": "11.3.1",
-          "repository": "Danny Glover's Repo",
-          "date": "2018-07-07T08:42:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 6,
-            "bad": 0,
-            "total": 6,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.repo.xarold.com.hidelabels10",
       "name": "HideLabels10",
       "latest": "1.0",
@@ -33206,6 +33172,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.dannyglover.hidelabels10",
+      "name": "HideLabels10",
+      "latest": "1.0",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.dannyglover.hidelabels10/",
+      "shortDescription": "Hide app labels on iOS 10.",
+      "category": "Tweaks",
+      "author": "Danny Glover",
+      "commercial": false,
+      "date": "2018-03-04T20:02:05Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.3.1",
+          "repository": "Danny Glover's Repo",
+          "date": "2018-07-07T08:42:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 6,
+            "bad": 0,
+            "total": 6,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -58242,10 +58242,10 @@
           "date": "2018-07-10T03:22:35Z",
           "outcome": {
             "calculatedStatus": "Likely working",
-            "percentage": 66,
-            "good": 6,
+            "percentage": 70,
+            "good": 7,
             "bad": 0,
-            "total": 9,
+            "total": 10,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -59680,73 +59680,6 @@
       ]
     },
     {
-      "id": "com.codyqx4.respring",
-      "name": "Respring",
-      "latest": "1.0",
-      "repository": "CODYQX4's Repo",
-      "url": "https://codyqx4.github.io/cydia/",
-      "shortDescription": "Respring Device via Terminal/SSH with the command “respring”.",
-      "category": "System",
-      "author": "CODYQX4",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.0",
-          "iOSVersion": "11.3.1",
-          "repository": "CODYQX4's Repo",
-          "date": "2018-07-12T22:42:16Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.junesiphone.respringapp",
-      "name": "Respring",
-      "latest": "1.0.1",
-      "repository": "junesiphone.com",
-      "url": "http://cydia.saurik.com/package/com.junesiphone.respringapp/",
-      "shortDescription": "Useful for reloading Anemone themes.",
-      "category": "Addons (Apps)",
-      "author": "JunesiPhone",
-      "commercial": false,
-      "date": "2018-07-11T02:47:14Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.1",
-          "iOSVersion": "11.3.1",
-          "repository": "junesiphone.com",
-          "date": "2018-07-14T16:13:19Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "nl.d4ni.respring",
       "name": "Respring",
       "latest": "1.1-1",
@@ -59797,6 +59730,73 @@
           "iOSVersion": "11.3.1",
           "repository": "BigBoss",
           "date": "2018-07-07T10:12:30Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.codyqx4.respring",
+      "name": "Respring",
+      "latest": "1.0",
+      "repository": "CODYQX4's Repo",
+      "url": "https://codyqx4.github.io/cydia/",
+      "shortDescription": "Respring Device via Terminal/SSH with the command “respring”.",
+      "category": "System",
+      "author": "CODYQX4",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.3.1",
+          "repository": "CODYQX4's Repo",
+          "date": "2018-07-12T22:42:16Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.junesiphone.respringapp",
+      "name": "Respring",
+      "latest": "1.0.1",
+      "repository": "junesiphone.com",
+      "url": "http://cydia.saurik.com/package/com.junesiphone.respringapp/",
+      "shortDescription": "Useful for reloading Anemone themes.",
+      "category": "Addons (Apps)",
+      "author": "JunesiPhone",
+      "commercial": false,
+      "date": "2018-07-11T02:47:14Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "11.3.1",
+          "repository": "junesiphone.com",
+          "date": "2018-07-14T16:13:19Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
