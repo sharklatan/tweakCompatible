@@ -1165,9 +1165,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1184,6 +1184,15 @@
           "date": "2018-07-15T11:23:02Z",
           "userName": "wardj3798",
           "issueNumber": 27166,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad7,1",
+          "issues": "love it ",
+          "date": "2018-07-15T11:18:37Z",
+          "userName": "plsdonttakemychickennuggets",
+          "issueNumber": 27163,
           "arch32": false
         }
       ]
