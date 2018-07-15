@@ -1,7 +1,7 @@
 {
   "id": "com.laughingquoll.noctisxi",
   "name": "NoctisXI",
-  "latest": "1.5.3",
+  "latest": "1.5.2",
   "repository": "(null)",
   "url": "http://cydia.saurik.com/package/com.laughingquoll.noctisxi/",
   "shortDescription": "A system wide dark mode.",
@@ -1674,9 +1674,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1711,6 +1711,15 @@
           "date": "2018-07-14T12:57:02Z",
           "userName": "alextheman26",
           "issueNumber": 26445,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-07-15T11:52:48Z",
+          "userName": "viggou",
+          "issueNumber": 27175,
           "arch32": false
         }
       ]
