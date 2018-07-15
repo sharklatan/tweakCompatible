@@ -66,10 +66,10 @@
       "date": "2018-07-07T08:38:41Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 90,
+        "percentage": 81,
         "good": 9,
         "bad": 0,
-        "total": 10,
+        "total": 11,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -167,6 +167,15 @@
           "date": "2018-07-12T19:23:30Z",
           "userName": "rt50631",
           "issueNumber": 24531,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Crashes springboard sometimes with bioprotect",
+          "date": "2018-07-15T03:32:10Z",
+          "userName": "Vinny000",
+          "issueNumber": 26909,
           "arch32": false
         }
       ]
