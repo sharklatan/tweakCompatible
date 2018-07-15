@@ -17,10 +17,10 @@
       "date": "2018-07-15T04:23:00Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -46,6 +46,15 @@
           "date": "2018-07-15T09:21:25Z",
           "userName": "firat36",
           "issueNumber": 27079,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2018-07-15T09:31:58Z",
+          "userName": "Wea1thRS",
+          "issueNumber": 27083,
           "arch32": false
         }
       ]
