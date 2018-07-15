@@ -163,7 +163,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -180,6 +180,15 @@
           "date": "2018-07-15T01:03:50Z",
           "userName": "ethanj1999",
           "issueNumber": 26857,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Update to beta 2 seems to have broken whatever minimal functionality it had on B2.0",
+          "date": "2018-07-15T01:02:19Z",
+          "userName": "royorbs3",
+          "issueNumber": 26855,
           "arch32": false
         }
       ]
