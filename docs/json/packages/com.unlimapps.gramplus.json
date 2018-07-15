@@ -1044,11 +1044,11 @@
       "repository": "beta.unlimapps.com",
       "date": "2018-07-10T16:37:29Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1074,6 +1074,15 @@
           "date": "2018-07-11T15:42:37Z",
           "userName": "Kymek77",
           "issueNumber": 22895,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "not working",
+          "date": "2018-07-15T01:26:19Z",
+          "userName": "xCE3",
+          "issueNumber": 26862,
           "arch32": false
         }
       ]
