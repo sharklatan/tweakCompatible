@@ -1722,10 +1722,10 @@
       "date": "2018-07-15T01:18:10Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 80,
-        "good": 4,
+        "percentage": 83,
+        "good": 5,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1778,6 +1778,15 @@
           "date": "2018-07-15T05:37:51Z",
           "userName": "BattMan-JavaScript",
           "issueNumber": 26951,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2018-07-15T09:35:33Z",
+          "userName": "Wea1thRS",
+          "issueNumber": 27093,
           "arch32": false
         }
       ]
