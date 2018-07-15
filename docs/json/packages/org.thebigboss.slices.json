@@ -120,7 +120,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -137,6 +137,15 @@
           "date": "2018-07-10T01:39:34Z",
           "userName": "ZeldaZach",
           "issueNumber": 19911,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "SafeMode ",
+          "date": "2018-07-15T08:56:30Z",
+          "userName": "iDavidef",
+          "issueNumber": 27063,
           "arch32": false
         }
       ]
