@@ -1,7 +1,7 @@
 {
   "id": "libactivator",
   "name": "Activator",
-  "latest": "1.9.13~beta2",
+  "latest": "1.9.13~beta1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/libactivator/",
   "shortDescription": "Centralized gestures, button and shortcut management for iOS",
@@ -2050,7 +2050,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2067,6 +2067,15 @@
           "date": "2018-07-08T07:47:06Z",
           "userName": "wildcatlogan",
           "issueNumber": 15493,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-07-15T13:03:16Z",
+          "userName": "itai25",
+          "issueNumber": 27195,
           "arch32": false
         }
       ]
