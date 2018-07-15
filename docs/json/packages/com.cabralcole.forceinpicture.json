@@ -146,10 +146,10 @@
       "date": "2018-03-02T13:52:51Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 87,
-        "good": 7,
+        "percentage": 88,
+        "good": 8,
         "bad": 0,
-        "total": 8,
+        "total": 9,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -229,6 +229,15 @@
           "date": "2018-03-21T20:20:37Z",
           "userName": "ZeroDk",
           "issueNumber": 7839,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-07-15T07:25:04Z",
+          "userName": "beemills1",
+          "issueNumber": 27012,
           "arch32": false
         }
       ]
