@@ -1,7 +1,7 @@
 {
   "id": "com.alexzielenski.zeppelin",
   "name": "Zeppelin",
-  "latest": "2.1.1-1",
+  "latest": "2.1.0-12",
   "repository": "ModMyi (Archive)",
   "url": "http://cydia.saurik.com/package/com.alexzielenski.zeppelin/",
   "shortDescription": "Replaces carrier text with an image!",
@@ -1432,9 +1432,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1451,6 +1451,15 @@
           "date": "2018-07-08T07:49:48Z",
           "userName": "VHSpunk",
           "issueNumber": 15503,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-07-15T10:38:54Z",
+          "userName": "Shaunieboy",
+          "issueNumber": 27156,
           "arch32": false
         }
       ]
