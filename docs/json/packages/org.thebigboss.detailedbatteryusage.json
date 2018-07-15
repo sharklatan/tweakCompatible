@@ -570,9 +570,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 96,
-        "good": 29,
+        "good": 30,
         "bad": 0,
-        "total": 30,
+        "total": 31,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -850,6 +850,15 @@
           "date": "2018-07-12T22:39:33Z",
           "userName": "Farzadsv",
           "issueNumber": 24689,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone7,1",
+          "issues": "Daemons not showing",
+          "date": "2018-07-15T10:07:37Z",
+          "userName": "SilentFez",
+          "issueNumber": 27124,
           "arch32": false
         }
       ]
