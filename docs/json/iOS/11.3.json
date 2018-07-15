@@ -2706,7 +2706,7 @@
     {
       "id": "com.bytafont.bytafont3",
       "name": "BytaFont 3",
-      "latest": "3.2",
+      "latest": "3.1.5",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.bytafont.bytafont3/",
       "shortDescription": "BytaFont 3 lets you apply fonts to your iDevice in few taps.",
@@ -3966,6 +3966,39 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.creaturecoding.consolidation",
+      "name": "Consolidation ALPHA",
+      "latest": "1.0alpha7-2+debug",
+      "repository": "CreatureSurvive's Repo",
+      "url": "https://creaturesurvive.github.io/",
+      "shortDescription": "Organize and sort notifications on the LS and NC.",
+      "category": "Tweaks",
+      "author": "CreatureSurvive",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0alpha7-2+debug",
+          "iOSVersion": "11.3",
+          "repository": "CreatureSurvive's Repo",
+          "date": "2018-07-15T08:51:39Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
