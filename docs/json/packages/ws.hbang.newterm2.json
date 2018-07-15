@@ -1093,9 +1093,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 98,
-        "good": 65,
+        "good": 66,
         "bad": 0,
-        "total": 66,
+        "total": 67,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1697,6 +1697,15 @@
           "date": "2018-07-14T08:27:23Z",
           "userName": "Adatrem",
           "issueNumber": 26199,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2018-07-15T10:08:25Z",
+          "userName": "SilentFez",
+          "issueNumber": 27125,
           "arch32": false
         }
       ]
