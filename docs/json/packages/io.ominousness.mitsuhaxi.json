@@ -1617,10 +1617,10 @@
       "date": "2018-07-13T14:47:24Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 87,
-        "good": 14,
+        "percentage": 88,
+        "good": 15,
         "bad": 0,
-        "total": 16,
+        "total": 17,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1772,6 +1772,15 @@
           "date": "2018-07-15T00:30:28Z",
           "userName": "buitim",
           "issueNumber": 26840,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone6,1",
+          "issues": "Freezing too much",
+          "date": "2018-07-15T05:36:08Z",
+          "userName": "sudeep-08",
+          "issueNumber": 26950,
           "arch32": false
         }
       ]
