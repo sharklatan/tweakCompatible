@@ -1,7 +1,7 @@
 {
   "id": "com.foxfort.facebookdarkmode",
   "name": "FacebookDarkMode",
-  "latest": "1.0.27",
+  "latest": "1.0.28",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.foxfort.facebookdarkmode/",
   "shortDescription": "Dark mode for Facebook",
@@ -374,6 +374,37 @@
           "date": "2018-07-14T17:43:35Z",
           "userName": "henriquebelaz",
           "issueNumber": 26599,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.28",
+      "iOSVersion": "11.3.1",
+      "repository": "Packix",
+      "date": "2018-07-15T12:58:26Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "By Marvix1711",
+          "date": "2018-07-15T12:58:26Z",
+          "userName": "Marvix1711",
+          "issueNumber": 27194,
           "arch32": false
         }
       ]
