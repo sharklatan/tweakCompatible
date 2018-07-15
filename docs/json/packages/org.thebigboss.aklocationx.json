@@ -48,10 +48,10 @@
       "date": "2018-07-08T10:56:48Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 71,
-        "good": 5,
+        "percentage": 75,
+        "good": 6,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -122,6 +122,15 @@
           "date": "2018-07-10T02:09:55Z",
           "userName": "dinol1187",
           "issueNumber": 19954,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-07-15T07:15:09Z",
+          "userName": "CodeyMoore",
+          "issueNumber": 27002,
           "arch32": false
         }
       ]
