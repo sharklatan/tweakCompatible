@@ -1721,11 +1721,11 @@
       "repository": "Packix",
       "date": "2018-07-15T01:18:10Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1769,6 +1769,15 @@
           "date": "2018-07-15T04:18:56Z",
           "userName": "Panaikran",
           "issueNumber": 26922,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2018-07-15T05:37:51Z",
+          "userName": "BattMan-JavaScript",
+          "issueNumber": 26951,
           "arch32": false
         }
       ]
