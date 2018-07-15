@@ -356,10 +356,10 @@
       "date": "2018-07-07T03:32:51Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 88,
+        "percentage": 84,
         "good": 22,
         "bad": 0,
-        "total": 25,
+        "total": 26,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -592,6 +592,15 @@
           "date": "2018-07-12T19:23:05Z",
           "userName": "rt50631",
           "issueNumber": 24528,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "No weather on LS",
+          "date": "2018-07-15T03:31:14Z",
+          "userName": "megatech1966",
+          "issueNumber": 26907,
           "arch32": false
         }
       ]
