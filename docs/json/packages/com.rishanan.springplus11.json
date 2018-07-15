@@ -182,9 +182,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 20,
+        "good": 21,
         "bad": 0,
-        "total": 20,
+        "total": 21,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -372,6 +372,15 @@
           "date": "2018-07-14T23:51:52Z",
           "userName": "serapoint",
           "issueNumber": 26821,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2018-07-15T03:56:25Z",
+          "userName": "Mb031",
+          "issueNumber": 26915,
           "arch32": false
         }
       ]
