@@ -487,10 +487,10 @@
       "date": "2018-07-07T22:00:33Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 76,
-        "good": 13,
+        "percentage": 77,
+        "good": 14,
         "bad": 0,
-        "total": 17,
+        "total": 18,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -651,6 +651,15 @@
           "date": "2018-07-15T09:34:31Z",
           "userName": "Wea1thRS",
           "issueNumber": 27085,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-07-15T09:31:18Z",
+          "userName": "MantaRay05",
+          "issueNumber": 27082,
           "arch32": false
         }
       ]
