@@ -3290,6 +3290,40 @@
       ]
     },
     {
+      "id": "com.jakeashacks.timetounlock",
+      "name": "TimeToUnlock",
+      "latest": "1.0.6",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jakeashacks.timetounlock/",
+      "shortDescription": "Set current time as your passcode. Configure from Settings.",
+      "category": "Tweaks",
+      "author": "Jake James",
+      "commercial": false,
+      "date": "2018-07-11T07:27:50Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.6",
+          "iOSVersion": "11.2.2",
+          "repository": "BigBoss",
+          "date": "2018-07-15T10:37:56Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.unlimapps.toneenabler",
       "name": "ToneEnabler",
       "latest": "1.1r-14",
