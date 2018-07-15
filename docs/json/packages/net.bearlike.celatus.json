@@ -17,10 +17,10 @@
       "date": "2018-07-08T06:53:21Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 75,
+        "percentage": 60,
         "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -64,6 +64,15 @@
           "date": "2018-07-14T09:30:01Z",
           "userName": "dollerbill",
           "issueNumber": 26251,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "doesn’t hide apps",
+          "date": "2018-07-15T11:52:19Z",
+          "userName": "fluffhead123",
+          "issueNumber": 27174,
           "arch32": false
         }
       ]
