@@ -225,11 +225,11 @@
       "repository": "Packix",
       "date": "2018-07-13T06:19:46Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 33,
-        "good": 1,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -264,6 +264,15 @@
           "date": "2018-07-15T09:00:37Z",
           "userName": "halukunal",
           "issueNumber": 27066,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2018-07-15T09:39:26Z",
+          "userName": "Wea1thRS",
+          "issueNumber": 27111,
           "arch32": false
         }
       ]
