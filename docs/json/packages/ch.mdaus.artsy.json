@@ -846,10 +846,10 @@
       "date": "2018-07-11T15:19:06Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 16,
-        "good": 2,
+        "percentage": 23,
+        "good": 3,
         "bad": 0,
-        "total": 12,
+        "total": 13,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -965,6 +965,15 @@
           "date": "2018-07-14T23:00:42Z",
           "userName": "morgancordry",
           "issueNumber": 26798,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-07-15T01:22:23Z",
+          "userName": "Sarcasticinsomniac",
+          "issueNumber": 26861,
           "arch32": false
         }
       ]
