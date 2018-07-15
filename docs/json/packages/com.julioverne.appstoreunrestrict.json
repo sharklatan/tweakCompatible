@@ -17,10 +17,10 @@
       "date": "2018-07-07T00:33:41Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 68,
+        "percentage": 64,
         "good": 11,
         "bad": 0,
-        "total": 16,
+        "total": 17,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -172,6 +172,15 @@
           "date": "2018-07-14T08:20:14Z",
           "userName": "section-leader",
           "issueNumber": 26178,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-07-15T08:50:05Z",
+          "userName": "kingonkeys",
+          "issueNumber": 27059,
           "arch32": false
         }
       ]
