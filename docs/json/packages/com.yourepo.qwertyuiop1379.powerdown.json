@@ -17,10 +17,10 @@
       "date": "2018-07-15T04:23:00Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 2,
+        "percentage": 60,
+        "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -64,6 +64,15 @@
           "date": "2018-07-15T12:08:26Z",
           "userName": "icydiafire",
           "issueNumber": 27179,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-07-15T13:24:38Z",
+          "userName": "dExify",
+          "issueNumber": 27203,
           "arch32": false
         }
       ]
