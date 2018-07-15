@@ -486,11 +486,11 @@
       "repository": "BigBoss",
       "date": "2018-07-07T22:00:33Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 12,
+        "calculatedStatus": "Working",
+        "percentage": 76,
+        "good": 13,
         "bad": 0,
-        "total": 16,
+        "total": 17,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -642,6 +642,15 @@
           "date": "2018-07-15T08:20:26Z",
           "userName": "johntsegaye",
           "issueNumber": 27039,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2018-07-15T09:34:31Z",
+          "userName": "Wea1thRS",
+          "issueNumber": 27085,
           "arch32": false
         }
       ]
