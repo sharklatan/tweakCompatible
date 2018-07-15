@@ -67,9 +67,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 5,
+        "good": 6,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -122,6 +122,15 @@
           "date": "2018-07-14T13:57:52Z",
           "userName": "tudoapampa",
           "issueNumber": 26467,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "Add pasithea2 pls",
+          "date": "2018-07-15T00:37:59Z",
+          "userName": "nilbatey",
+          "issueNumber": 26843,
           "arch32": false
         }
       ]
