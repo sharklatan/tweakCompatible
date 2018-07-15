@@ -1,10 +1,10 @@
 {
   "id": "com.yourepo.patrick-knauf.noslowanimationsxibeta",
   "name": "NoSlowAnimationsXI (BETA 1)",
-  "latest": "2.0",
+  "latest": "2.1",
   "repository": "Patrick-Knauf Source - YouRepo",
   "url": "http://cydia.saurik.com/package/com.yourepo.patrick-knauf.noslowanimationsxibeta/",
-  "shortDescription": "Don’t get slowed down by Animations on IOS 11!",
+  "shortDescription": "Don’t get slowed down by Animations on iOS 11!",
   "category": "Tweaks",
   "author": "Patrick Knuaf",
   "commercial": false,
@@ -149,6 +149,37 @@
           "date": "2018-07-14T05:31:11Z",
           "userName": "AppleExpl01t",
           "issueNumber": 26061,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.1",
+      "iOSVersion": "11.3.1",
+      "repository": "Patrick-Knauf Source - YouRepo",
+      "date": "2018-07-15T01:03:50Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-07-15T01:03:50Z",
+          "userName": "ethanj1999",
+          "issueNumber": 26857,
           "arch32": false
         }
       ]
