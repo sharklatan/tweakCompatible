@@ -924,10 +924,10 @@
       "date": "2018-07-09T14:19:29Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 86,
-        "good": 20,
+        "percentage": 87,
+        "good": 21,
         "bad": 0,
-        "total": 23,
+        "total": 24,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1142,6 +1142,15 @@
           "date": "2018-07-15T05:29:18Z",
           "userName": "afeekh",
           "issueNumber": 26946,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-07-15T06:46:40Z",
+          "userName": "crossfiire",
+          "issueNumber": 26995,
           "arch32": false
         }
       ]
