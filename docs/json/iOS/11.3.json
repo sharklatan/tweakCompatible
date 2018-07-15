@@ -203,7 +203,7 @@
     {
       "id": "libactivator",
       "name": "Activator",
-      "latest": "1.9.13~beta2",
+      "latest": "1.9.12",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/libactivator/",
       "shortDescription": "Centralized gestures, button and shortcut management for iOS",
@@ -950,40 +950,6 @@
       ]
     },
     {
-      "id": "ch.mdaus.artsy",
-      "name": "Artsy",
-      "latest": "0.0.4-8+debug",
-      "repository": "Maxwell Dausch's Repo",
-      "url": "http://cydia.saurik.com/package/ch.mdaus.artsy/",
-      "shortDescription": "Modify the Lockscreen, CC, Spotify, and Music app now playing views based on the album artwork.",
-      "category": "Tweaks",
-      "author": "Maxwell Dausch",
-      "commercial": false,
-      "date": "2018-05-02T07:07:20Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.4-8+debug",
-          "iOSVersion": "11.3",
-          "repository": "Maxwell Dausch's Repo",
-          "date": "2018-07-07T20:15:38Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 6,
-            "bad": 0,
-            "total": 6,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.artsy",
       "name": "Artsy",
       "latest": "0.0.4-8+debug",
@@ -1006,6 +972,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch.mdaus.artsy",
+      "name": "Artsy",
+      "latest": "0.0.4-8+debug",
+      "repository": "Maxwell Dausch's Repo",
+      "url": "http://cydia.saurik.com/package/ch.mdaus.artsy/",
+      "shortDescription": "Modify the Lockscreen, CC, Spotify, and Music app now playing views based on the album artwork.",
+      "category": "Tweaks",
+      "author": "Maxwell Dausch",
+      "commercial": false,
+      "date": "2018-05-02T07:07:20Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.4-8+debug",
+          "iOSVersion": "11.3",
+          "repository": "Maxwell Dausch's Repo",
+          "date": "2018-07-07T20:15:38Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 6,
+            "bad": 0,
+            "total": 6,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -3419,7 +3419,7 @@
     {
       "id": "xyz.royalapps.cleanhomescreen",
       "name": "Clean Home Screen",
-      "latest": "1.0.1",
+      "latest": "1.0.2",
       "repository": "Dynastic Repo",
       "url": "http://cydia.saurik.com/package/xyz.royalapps.cleanhomescreen/",
       "shortDescription": "Clean Home Screen helps you remove all the clutter from your home screen and lock screen, offering you a simple and clean app launching experience!",
@@ -4629,22 +4629,22 @@
       ]
     },
     {
-      "id": "com.heaveniphone.defaultsbpage",
+      "id": "com.hackyouriphone.defaultsbpage",
       "name": "DefaultSBPage",
       "latest": "2.0-19",
-      "repository": "Heaven iPhone",
-      "url": "http://cydia.saurik.com/package/com.heaveniphone.defaultsbpage/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.defaultsbpage/",
       "shortDescription": "choose homescreen page shown after unlock",
-      "category": "HiPhone-Tools",
-      "author": "(null)",
+      "category": "HYI - Tweaks",
+      "author": "davidedj10",
       "commercial": false,
-      "date": "2018-07-12T10:34:24Z",
+      "date": "2018-07-09T12:50:33Z",
       "versions": [
         {
           "tweakVersion": "2.0-19",
           "iOSVersion": "11.3",
-          "repository": "Heaven iPhone",
-          "date": "2018-07-12T10:34:24Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-09T12:50:33Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -4663,22 +4663,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.defaultsbpage",
+      "id": "com.heaveniphone.defaultsbpage",
       "name": "DefaultSBPage",
       "latest": "2.0-19",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.defaultsbpage/",
+      "repository": "Heaven iPhone",
+      "url": "http://cydia.saurik.com/package/com.heaveniphone.defaultsbpage/",
       "shortDescription": "choose homescreen page shown after unlock",
-      "category": "HYI - Tweaks",
-      "author": "davidedj10",
+      "category": "HiPhone-Tools",
+      "author": "(null)",
       "commercial": false,
-      "date": "2018-07-09T12:50:33Z",
+      "date": "2018-07-12T10:34:24Z",
       "versions": [
         {
           "tweakVersion": "2.0-19",
           "iOSVersion": "11.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-09T12:50:33Z",
+          "repository": "Heaven iPhone",
+          "date": "2018-07-12T10:34:24Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -5120,40 +5120,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.dotstweak",
-      "name": "Dots",
-      "latest": "1.1.2",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.dotstweak/",
-      "shortDescription": "Add notification dots to your OLED screen!",
-      "category": "HYI - Tweaks",
-      "author": "Shyam Lad",
-      "commercial": false,
-      "date": "2018-07-08T04:08:29Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1.2",
-          "iOSVersion": "11.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-09T01:38:42Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 50,
-            "good": 1,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.ladshyam.dots",
       "name": "Dots",
       "latest": "1.1.4",
@@ -5196,6 +5162,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.dotstweak",
+      "name": "Dots",
+      "latest": "1.1.2",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.dotstweak/",
+      "shortDescription": "Add notification dots to your OLED screen!",
+      "category": "HYI - Tweaks",
+      "author": "Shyam Lad",
+      "commercial": false,
+      "date": "2018-07-08T04:08:29Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.2",
+          "iOSVersion": "11.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-09T01:38:42Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 50,
+            "good": 1,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -16312,40 +16312,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.videoplayerrotatable",
-      "name": "VideoPlayerRotatable",
-      "latest": "0.0.15",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.videoplayerrotatable/",
-      "shortDescription": "Disables rotation lock when the default video player starts playing and restores lock when it stops. You will need to quit and re-launch any app you want to use this in.",
-      "category": "HYI - Tweaks",
-      "author": "David Glinski",
-      "commercial": false,
-      "date": "2018-07-10T21:57:40Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.15",
-          "iOSVersion": "11.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T21:57:40Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "nl.d4ni.videoplayerrotatable",
       "name": "VideoPlayerRotatable",
       "latest": "0.0.15",
@@ -16366,6 +16332,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.videoplayerrotatable",
+      "name": "VideoPlayerRotatable",
+      "latest": "0.0.15",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.videoplayerrotatable/",
+      "shortDescription": "Disables rotation lock when the default video player starts playing and restores lock when it stops. You will need to quit and re-launch any app you want to use this in.",
+      "category": "HYI - Tweaks",
+      "author": "David Glinski",
+      "commercial": false,
+      "date": "2018-07-10T21:57:40Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.15",
+          "iOSVersion": "11.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T21:57:40Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -17029,6 +17029,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.justinpetkovic.ytmt",
+      "name": "YouTube Music Tools",
+      "latest": "1.0.4",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.justinpetkovic.ytmt/",
+      "shortDescription": "Essential toolbox for YouTube Music app.",
+      "category": "Tweaks",
+      "author": "Justin Petkovic",
+      "commercial": false,
+      "date": "2018-07-10T21:44:18Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.4",
+          "iOSVersion": "11.3",
+          "repository": "Packix",
+          "date": "2018-07-15T04:08:57Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
