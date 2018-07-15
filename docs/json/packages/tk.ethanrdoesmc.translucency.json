@@ -304,7 +304,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -321,6 +321,15 @@
           "date": "2018-07-07T21:42:12Z",
           "userName": "smaid12",
           "issueNumber": 14170,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-07-15T06:32:54Z",
+          "userName": "unqbeck",
+          "issueNumber": 26988,
           "arch32": false
         }
       ]
