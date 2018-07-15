@@ -71,7 +71,7 @@
     {
       "id": "libactivator",
       "name": "Activator",
-      "latest": "1.9.12",
+      "latest": "1.9.13~beta2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/libactivator/",
       "shortDescription": "Centralized gestures, button and shortcut management for iOS",
@@ -642,39 +642,6 @@
       ]
     },
     {
-      "id": "com.rbt.batterylife",
-      "name": "BatteryLife",
-      "latest": "1.8.0~b12",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.rbt.batterylife/",
-      "shortDescription": "Displays useful information about your device's battery health [b1] Completely replaced the main app with the official App Store version. Please report ANY bugs and missing languages to batterylife1.8.x@rbtdigital.com. Thank you very much! [b2] Several fixes. [b3] Possible fix for iOS 8 crash. General bug fixes. [b4] iOS 8 bug fixes. [b5] Updated app a lot. [b6] See b5. [b7] See b6. [b8] App is now compatible with iOS 11. [b9] Bugfixes. [b10] Fix for missing app icon. [b11] Possible fix for the status bar options. [b12] Fix for b11.",
-      "category": "Utilities",
-      "author": "rbt",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.7.0",
-          "iOSVersion": "11.2.6",
-          "repository": "BigBoss",
-          "date": "2018-07-07T21:40:35Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.modmyi.batterylife",
       "name": "BatteryLife",
       "latest": "1.6.15",
@@ -697,6 +664,39 @@
             "good": 0,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.rbt.batterylife",
+      "name": "BatteryLife",
+      "latest": "1.8.0~b12",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.rbt.batterylife/",
+      "shortDescription": "Displays useful information about your device's battery health [b1] Completely replaced the main app with the official App Store version. Please report ANY bugs and missing languages to batterylife1.8.x@rbtdigital.com. Thank you very much! [b2] Several fixes. [b3] Possible fix for iOS 8 crash. General bug fixes. [b4] iOS 8 bug fixes. [b5] Updated app a lot. [b6] See b5. [b7] See b6. [b8] App is now compatible with iOS 11. [b9] Bugfixes. [b10] Fix for missing app icon. [b11] Possible fix for the status bar options. [b12] Fix for b11.",
+      "category": "Utilities",
+      "author": "rbt",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.7.0",
+          "iOSVersion": "11.2.6",
+          "repository": "BigBoss",
+          "date": "2018-07-07T21:40:35Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -2902,6 +2902,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ldid",
+      "name": "Link Identity Editor",
+      "latest": "2.0.0",
+      "repository": "Cydia/Telesphoreo",
+      "url": "http://cydia.saurik.com/package/ldid/",
+      "shortDescription": "pseudo-codesign Mach-O files",
+      "category": "Development",
+      "author": "Jay Freeman (saurik)",
+      "commercial": false,
+      "date": "2018-03-02T03:09:19Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0.0",
+          "iOSVersion": "11.2.6",
+          "repository": "Jakeashacks",
+          "date": "2018-07-15T11:03:37Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
