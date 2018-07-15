@@ -741,10 +741,10 @@
       "date": "2018-07-11T00:38:45Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 91,
-        "good": 22,
+        "percentage": 92,
+        "good": 23,
         "bad": 0,
-        "total": 24,
+        "total": 25,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -968,6 +968,15 @@
           "date": "2018-07-15T08:48:32Z",
           "userName": "vjonas",
           "issueNumber": 27057,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2018-07-15T09:35:57Z",
+          "userName": "Wea1thRS",
+          "issueNumber": 27096,
           "arch32": false
         }
       ]
