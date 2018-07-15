@@ -804,9 +804,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -841,6 +841,15 @@
           "date": "2018-07-13T23:32:22Z",
           "userName": "0x426f6f6d",
           "issueNumber": 25821,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-07-15T09:12:39Z",
+          "userName": "sideload-de",
+          "issueNumber": 27072,
           "arch32": false
         }
       ]
