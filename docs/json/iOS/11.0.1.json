@@ -2225,6 +2225,40 @@
       ]
     },
     {
+      "id": "com.cydiageek.gyration",
+      "name": "Gyration",
+      "latest": "1.0.3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.cydiageek.gyration/",
+      "shortDescription": "Enable Rotation Over All the Apps/LockScreen/HomeScreen on System Wide & More!",
+      "category": "Tweaks",
+      "author": "CydiaGeek",
+      "commercial": false,
+      "date": "2018-04-21T13:22:08Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.3",
+          "iOSVersion": "11.0.1",
+          "repository": "BigBoss",
+          "date": "2018-07-15T00:19:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "gzip",
       "name": "gzip",
       "latest": "1.8",
@@ -2924,6 +2958,39 @@
       ]
     },
     {
+      "id": "ws.hbang.newterm2",
+      "name": "NewTerm 2",
+      "latest": "2.0",
+      "repository": "cydia.hbang.ws",
+      "url": "https://cydia.hbang.ws/",
+      "shortDescription": "A powerful terminal app for iOS",
+      "category": "Terminal Support",
+      "author": "HASHBANG Productions",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0~beta3",
+          "iOSVersion": "11.0.1",
+          "repository": "HASHBANG Productions",
+          "date": "2018-02-28T11:03:57Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.newterm2",
       "name": "NewTerm 2",
       "latest": "2.0",
@@ -2946,39 +3013,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ws.hbang.newterm2",
-      "name": "NewTerm 2",
-      "latest": "2.0",
-      "repository": "cydia.hbang.ws",
-      "url": "https://cydia.hbang.ws/",
-      "shortDescription": "A powerful terminal app for iOS",
-      "category": "Terminal Support",
-      "author": "HASHBANG Productions",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0~beta3",
-          "iOSVersion": "11.0.1",
-          "repository": "HASHBANG Productions",
-          "date": "2018-02-28T11:03:57Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
