@@ -320,10 +320,10 @@
       "date": "2018-07-07T05:24:05Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 16,
+        "percentage": 14,
         "good": 1,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -385,6 +385,15 @@
           "date": "2018-07-12T18:19:47Z",
           "userName": "Farzadsv",
           "issueNumber": 24469,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-07-15T06:25:25Z",
+          "userName": "ianrod30",
+          "issueNumber": 26986,
           "arch32": false
         }
       ]
