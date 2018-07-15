@@ -861,9 +861,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 81,
+        "good": 82,
         "bad": 0,
-        "total": 81,
+        "total": 82,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1600,6 +1600,15 @@
           "date": "2018-07-14T08:22:23Z",
           "userName": "Adatrem",
           "issueNumber": 26180,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2018-07-15T04:44:21Z",
+          "userName": "kevtoosaucey",
+          "issueNumber": 26932,
           "arch32": false
         }
       ]
